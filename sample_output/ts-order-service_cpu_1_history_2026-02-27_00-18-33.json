@@ -1,0 +1,437 @@
+{
+  "branches": [
+    {
+      "candidate": "ts-station-service_mem",
+      "causal_reasoning": "Despite stable memory metrics and absence of error logs, the high anomaly signal suggests a subtle but real resource issue possibly indicating silent memory pressure or saturation impacting service performance. Lack of evidence for memory leak or OOM does not rule out memory-related degradation as a root cause.",
+      "confidence": 0.85,
+      "contradicting_factors": [
+        "No memory increase pattern to indicate leak",
+        "No OOM or crash logs present",
+        "Minor and stable memory consumption indicates low severity"
+      ],
+      "depth": 0,
+      "evidence_summary": "High anomaly score (0.85) indicates statistically significant deviation; memory usage stable without upward trend or spikes; no logs indicating OOM or errors; memory fluctuations minor (~1-2MB), likely normal.",
+      "initial_score": 0.85,
+      "pod": "ts-station-service",
+      "resource": "mem",
+      "sub_branches": [],
+      "supporting_factors": [
+        "Anomaly score > 0.8 indicating statistically significant deviation",
+        "No error logs, consistent with silent saturation scenarios",
+        "Memory usage is stable without leak but slight fluctuations might reflect real pressure"
+      ]
+    },
+    {
+      "candidate": "ts-order-service_cpu",
+      "causal_reasoning": "The abrupt and sustained high CPU usage is highly indicative of a CPU saturation fault causing the ts-order-service to slow down or stall, thus degrading its performance and potentially impacting downstream services. The lack of explicit errors or timeouts is typical of 'silent saturation' failures. Given the statistical significance of the anomaly score (0.800) and no contradictory evidence, it strongly supports this CPU spike as a root cause candidate.",
+      "confidence": 0.9,
+      "contradicting_factors": [
+        "No direct error logs or application exceptions",
+        "No observed OOM or crash events"
+      ],
+      "depth": 0,
+      "evidence_summary": "Significant CPU usage spike from ~4 to 16 units at 1705935140 epoch time (~2024-01-22 14:52:20 UTC) with no corresponding error logs or exceptions. Logs prior to spike show normal operations. CPU hog pattern consistent with stress-ng induced overload. No OOM or crashes detected.",
+      "initial_score": 0.8,
+      "pod": "ts-order-service",
+      "resource": "cpu",
+      "sub_branches": [],
+      "supporting_factors": [
+        "High anomaly signal score (0.800) for CPU resource",
+        "Sharp CPU increase (3-4x normal load) beginning precisely at anomaly timestamp",
+        "Absence of error logs despite performance degradation",
+        "Pattern matches known CPU hog caused by stress-ng fault injection",
+        "Potential to affect downstream consumers through service slowdowns"
+      ]
+    },
+    {
+      "candidate": "ts-auth-service_cpu",
+      "causal_reasoning": "The moderate but steady CPU usage without spikes or errors suggests normal processing load rather than performance degradation or resource saturation. Given the anomaly score is 0.75 (below the 0.8 threshold), this signal is statistically notable but not strong enough to confidently attribute to a root cause. No silent saturation evidence is present.",
+      "confidence": 0.75,
+      "contradicting_factors": [
+        "Anomaly score below 0.8 threshold for high confidence",
+        "No CPU spikes or resource exhaustion patterns",
+        "Absence of error, timeout, or degraded performance logs"
+      ],
+      "depth": 0,
+      "evidence_summary": "CPU usage is moderately elevated (~15-16%) consistently during the time window with no error logs or timeouts. CPU drops slightly after initial period but no spikes or overload observed. Logs show normal operation without exceptions or failures.",
+      "initial_score": 0.75,
+      "pod": "ts-auth-service",
+      "resource": "cpu",
+      "sub_branches": [],
+      "supporting_factors": [
+        "Moderately elevated and stable CPU usage",
+        "Normal INFO-level logs without errors",
+        "No observed request latency issues or downstream impact"
+      ]
+    },
+    {
+      "candidate": "ts-config-service_latency",
+      "causal_reasoning": "Despite the anomaly signal at 0.7, the latency metrics and logs show stable, low latency and no errors indicating ts-config-service is operating normally during the interval. Lack of evidence for resource exhaustion or network issues reduces likelihood of ts-config-service latency causing the incident.",
+      "confidence": 0.3,
+      "contradicting_factors": [
+        "Anomaly signal only moderate (0.7 < 0.8 threshold for high confidence)",
+        "No latency spikes or degradations",
+        "No signs of silent resource saturation in telemetry"
+      ],
+      "depth": 0,
+      "evidence_summary": "Stable and very low latency (~9.26ms) over 40 seconds; no spikes or degradation; empty logs with no errors, exceptions, timeouts, or network faults; no anomalies detected in telemetry or metrics.",
+      "initial_score": 0.7,
+      "pod": "ts-config-service",
+      "resource": "latency",
+      "sub_branches": [
+        {
+          "candidate": "ts-seat-service_latency",
+          "causal_reasoning": "",
+          "confidence": 0.5,
+          "contradicting_factors": [],
+          "depth": 1,
+          "evidence_summary": "",
+          "initial_score": 0.5599999999999999,
+          "pod": "ts-seat-service",
+          "resource": "latency",
+          "sub_branches": [],
+          "supporting_factors": []
+        },
+        {
+          "candidate": "ts-admin-basic-info-service_latency",
+          "causal_reasoning": "",
+          "confidence": 0.5,
+          "contradicting_factors": [],
+          "depth": 1,
+          "evidence_summary": "",
+          "initial_score": 0.5599999999999999,
+          "pod": "ts-admin-basic-info-service",
+          "resource": "latency",
+          "sub_branches": [],
+          "supporting_factors": []
+        }
+      ],
+      "supporting_factors": [
+        "Latency within normal stable range",
+        "No error or warning logs",
+        "No packet delays or network faults observed",
+        "No downstream impact detected"
+      ]
+    },
+    {
+      "candidate": "ts-route-plan-service_mem",
+      "causal_reasoning": "The memory utilization pattern is stable without signs of leak or exhaustion, and the service logs are empty, which does not support memory being the root cause. The anomaly score of 0.65 indicates a moderate signal but below the threshold (0.8) for high confidence. Given the stable metrics and lack of corroborating errors or OOMs, it is unlikely that memory resource issues caused the incident.",
+      "confidence": 0.65,
+      "contradicting_factors": [
+        "No logs available to indicate any memory-related issues",
+        "No evidence of resource exhaustion or saturation"
+      ],
+      "depth": 0,
+      "evidence_summary": "Stable memory usage around 198.5 MB with minimal fluctuations; no memory increase trends or leaks; absence of logs or error messages; no OOM events or exceptions observed; no callers or callees affecting propagation.",
+      "initial_score": 0.65,
+      "pod": "ts-route-plan-service",
+      "resource": "mem",
+      "sub_branches": [],
+      "supporting_factors": [
+        "Anomaly score 0.65 indicates moderate anomaly but not statistically significant",
+        "Stable memory usage with minimal increase over observed interval",
+        "No OOM or error logs indicating memory faults or exhaustion",
+        "No memory leak pattern observed",
+        "Service dependency graph is isolated (no callers or callees)"
+      ]
+    }
+  ],
+  "exploration_history": {
+    "branches": [
+      {
+        "candidate": "ts-station-service_mem",
+        "causal_reasoning": "Despite stable memory metrics and absence of error logs, the high anomaly signal suggests a subtle but real resource issue possibly indicating silent memory pressure or saturation impacting service performance. Lack of evidence for memory leak or OOM does not rule out memory-related degradation as a root cause.",
+        "confidence": 0.85,
+        "contradicting_factors": [
+          "No memory increase pattern to indicate leak",
+          "No OOM or crash logs present",
+          "Minor and stable memory consumption indicates low severity"
+        ],
+        "depth": 0,
+        "evidence_summary": "High anomaly score (0.85) indicates statistically significant deviation; memory usage stable without upward trend or spikes; no logs indicating OOM or errors; memory fluctuations minor (~1-2MB), likely normal.",
+        "initial_score": 0.85,
+        "pod": "ts-station-service",
+        "resource": "mem",
+        "sub_branches": [],
+        "supporting_factors": [
+          "Anomaly score > 0.8 indicating statistically significant deviation",
+          "No error logs, consistent with silent saturation scenarios",
+          "Memory usage is stable without leak but slight fluctuations might reflect real pressure"
+        ]
+      },
+      {
+        "candidate": "ts-order-service_cpu",
+        "causal_reasoning": "The abrupt and sustained high CPU usage is highly indicative of a CPU saturation fault causing the ts-order-service to slow down or stall, thus degrading its performance and potentially impacting downstream services. The lack of explicit errors or timeouts is typical of 'silent saturation' failures. Given the statistical significance of the anomaly score (0.800) and no contradictory evidence, it strongly supports this CPU spike as a root cause candidate.",
+        "confidence": 0.9,
+        "contradicting_factors": [
+          "No direct error logs or application exceptions",
+          "No observed OOM or crash events"
+        ],
+        "depth": 0,
+        "evidence_summary": "Significant CPU usage spike from ~4 to 16 units at 1705935140 epoch time (~2024-01-22 14:52:20 UTC) with no corresponding error logs or exceptions. Logs prior to spike show normal operations. CPU hog pattern consistent with stress-ng induced overload. No OOM or crashes detected.",
+        "initial_score": 0.8,
+        "pod": "ts-order-service",
+        "resource": "cpu",
+        "sub_branches": [],
+        "supporting_factors": [
+          "High anomaly signal score (0.800) for CPU resource",
+          "Sharp CPU increase (3-4x normal load) beginning precisely at anomaly timestamp",
+          "Absence of error logs despite performance degradation",
+          "Pattern matches known CPU hog caused by stress-ng fault injection",
+          "Potential to affect downstream consumers through service slowdowns"
+        ]
+      },
+      {
+        "candidate": "ts-auth-service_cpu",
+        "causal_reasoning": "The moderate but steady CPU usage without spikes or errors suggests normal processing load rather than performance degradation or resource saturation. Given the anomaly score is 0.75 (below the 0.8 threshold), this signal is statistically notable but not strong enough to confidently attribute to a root cause. No silent saturation evidence is present.",
+        "confidence": 0.75,
+        "contradicting_factors": [
+          "Anomaly score below 0.8 threshold for high confidence",
+          "No CPU spikes or resource exhaustion patterns",
+          "Absence of error, timeout, or degraded performance logs"
+        ],
+        "depth": 0,
+        "evidence_summary": "CPU usage is moderately elevated (~15-16%) consistently during the time window with no error logs or timeouts. CPU drops slightly after initial period but no spikes or overload observed. Logs show normal operation without exceptions or failures.",
+        "initial_score": 0.75,
+        "pod": "ts-auth-service",
+        "resource": "cpu",
+        "sub_branches": [],
+        "supporting_factors": [
+          "Moderately elevated and stable CPU usage",
+          "Normal INFO-level logs without errors",
+          "No observed request latency issues or downstream impact"
+        ]
+      },
+      {
+        "candidate": "ts-config-service_latency",
+        "causal_reasoning": "Despite the anomaly signal at 0.7, the latency metrics and logs show stable, low latency and no errors indicating ts-config-service is operating normally during the interval. Lack of evidence for resource exhaustion or network issues reduces likelihood of ts-config-service latency causing the incident.",
+        "confidence": 0.3,
+        "contradicting_factors": [
+          "Anomaly signal only moderate (0.7 < 0.8 threshold for high confidence)",
+          "No latency spikes or degradations",
+          "No signs of silent resource saturation in telemetry"
+        ],
+        "depth": 0,
+        "evidence_summary": "Stable and very low latency (~9.26ms) over 40 seconds; no spikes or degradation; empty logs with no errors, exceptions, timeouts, or network faults; no anomalies detected in telemetry or metrics.",
+        "initial_score": 0.7,
+        "pod": "ts-config-service",
+        "resource": "latency",
+        "sub_branches": [
+          {
+            "candidate": "ts-seat-service_latency",
+            "causal_reasoning": "",
+            "confidence": 0.5,
+            "contradicting_factors": [],
+            "depth": 1,
+            "evidence_summary": "",
+            "initial_score": 0.5599999999999999,
+            "pod": "ts-seat-service",
+            "resource": "latency",
+            "sub_branches": [],
+            "supporting_factors": []
+          },
+          {
+            "candidate": "ts-admin-basic-info-service_latency",
+            "causal_reasoning": "",
+            "confidence": 0.5,
+            "contradicting_factors": [],
+            "depth": 1,
+            "evidence_summary": "",
+            "initial_score": 0.5599999999999999,
+            "pod": "ts-admin-basic-info-service",
+            "resource": "latency",
+            "sub_branches": [],
+            "supporting_factors": []
+          }
+        ],
+        "supporting_factors": [
+          "Latency within normal stable range",
+          "No error or warning logs",
+          "No packet delays or network faults observed",
+          "No downstream impact detected"
+        ]
+      },
+      {
+        "candidate": "ts-route-plan-service_mem",
+        "causal_reasoning": "The memory utilization pattern is stable without signs of leak or exhaustion, and the service logs are empty, which does not support memory being the root cause. The anomaly score of 0.65 indicates a moderate signal but below the threshold (0.8) for high confidence. Given the stable metrics and lack of corroborating errors or OOMs, it is unlikely that memory resource issues caused the incident.",
+        "confidence": 0.65,
+        "contradicting_factors": [
+          "No logs available to indicate any memory-related issues",
+          "No evidence of resource exhaustion or saturation"
+        ],
+        "depth": 0,
+        "evidence_summary": "Stable memory usage around 198.5 MB with minimal fluctuations; no memory increase trends or leaks; absence of logs or error messages; no OOM events or exceptions observed; no callers or callees affecting propagation.",
+        "initial_score": 0.65,
+        "pod": "ts-route-plan-service",
+        "resource": "mem",
+        "sub_branches": [],
+        "supporting_factors": [
+          "Anomaly score 0.65 indicates moderate anomaly but not statistically significant",
+          "Stable memory usage with minimal increase over observed interval",
+          "No OOM or error logs indicating memory faults or exhaustion",
+          "No memory leak pattern observed",
+          "Service dependency graph is isolated (no callers or callees)"
+        ]
+      }
+    ],
+    "synthesis": {
+      "causal_chain": "CPU saturation in ts-order-service caused its performance degradation, subsequently impacting downstream services possibly including ts-station-service, leading to observed anomalies and degraded user experience without explicit error logs.",
+      "confidence_scores": {
+        "ts-auth-service_cpu": 0.75,
+        "ts-config-service_latency": 0.3,
+        "ts-order-service_cpu": 0.9,
+        "ts-route-plan-service_mem": 0.65,
+        "ts-station-service_mem": 0.85
+      },
+      "final_ranking": [
+        "ts-order-service_cpu",
+        "ts-station-service_mem",
+        "ts-auth-service_cpu",
+        "ts-config-service_latency",
+        "ts-route-plan-service_mem"
+      ],
+      "ranking_rationale": "The ts-order-service_cpu exhibits a high anomaly score (0.80) and a sharp CPU spike indicative of silent CPU saturation without error logs, fitting the 'Silent Killer' profile and satisfying the highest confidence among candidates. Ts-station-service_mem has a slightly higher anomaly score (0.85) but stable memory usage with no increase trend, making it a plausible secondary candidate but less explanatory of incident impact. Ts-auth-service_cpu, ts-config-service_latency, and ts-route-plan-service_mem all have lower anomaly confidence scores (all below 0.8 except ts-auth-service_cpu at 0.75), stable metrics, and no evidence of resource saturation or errors, reducing their likelihood as root cause. No latency chain conflicts or deeper callee contradictions are present. Prioritizing resource saturation with highest anomaly and no log errors aligns with the rules."
+    }
+  },
+  "hypothesis_fusion": {
+    "fused_ranking": [
+      [
+        0.85,
+        "ts-station-service_mem"
+      ],
+      [
+        0.8,
+        "ts-order-service_cpu"
+      ],
+      [
+        0.75,
+        "ts-auth-service_cpu"
+      ],
+      [
+        0.7,
+        "ts-config-service_latency"
+      ],
+      [
+        0.65,
+        "ts-route-plan-service_mem"
+      ]
+    ],
+    "metrics_ranking": [
+      [
+        0,
+        "ts-config-service_latency"
+      ],
+      [
+        1,
+        "ts-route-plan-service_mem"
+      ],
+      [
+        2,
+        "ts-cancel-service_cpu"
+      ],
+      [
+        3,
+        "ts-notification-service_cpu"
+      ],
+      [
+        4,
+        "ts-order-service_cpu"
+      ]
+    ],
+    "trace_ranking": [
+      {
+        "metric_ranks": {
+          "centrality_rank": 20,
+          "impact_rank": 1,
+          "instability_rank": 1
+        },
+        "metrics": {
+          "centrality_topological_risk": 0.0212,
+          "impact_self_wasted_time_ms": 700226295.0,
+          "instability_p99_p50_ratio": 392.48
+        },
+        "rank": 1,
+        "rrf_score": 0.04529,
+        "service_name": "ts-auth-service"
+      },
+      {
+        "metric_ranks": {
+          "centrality_rank": 12,
+          "impact_rank": 11,
+          "instability_rank": 2
+        },
+        "metrics": {
+          "centrality_topological_risk": 0.0746,
+          "impact_self_wasted_time_ms": 14182811.0,
+          "instability_p99_p50_ratio": 82.49
+        },
+        "rank": 2,
+        "rrf_score": 0.0441,
+        "service_name": "ts-user-service"
+      },
+      {
+        "metric_ranks": {
+          "centrality_rank": 1,
+          "impact_rank": 3,
+          "instability_rank": 27
+        },
+        "metrics": {
+          "centrality_topological_risk": 0.9409,
+          "impact_self_wasted_time_ms": 263486394.0,
+          "instability_p99_p50_ratio": 4.51
+        },
+        "rank": 3,
+        "rrf_score": 0.04376,
+        "service_name": "ts-station-service"
+      },
+      {
+        "metric_ranks": {
+          "centrality_rank": 2,
+          "impact_rank": 6,
+          "instability_rank": 21
+        },
+        "metrics": {
+          "centrality_topological_risk": 0.1889,
+          "impact_self_wasted_time_ms": 190757264.0,
+          "instability_p99_p50_ratio": 8.77
+        },
+        "rank": 4,
+        "rrf_score": 0.04363,
+        "service_name": "ts-route-service"
+      },
+      {
+        "metric_ranks": {
+          "centrality_rank": 3,
+          "impact_rank": 7,
+          "instability_rank": 22
+        },
+        "metrics": {
+          "centrality_topological_risk": 0.1889,
+          "impact_self_wasted_time_ms": 170276521.0,
+          "instability_p99_p50_ratio": 8.33
+        },
+        "rank": 5,
+        "rrf_score": 0.04299,
+        "service_name": "ts-train-service"
+      }
+    ]
+  },
+  "synthesis": {
+    "causal_chain": "CPU saturation in ts-order-service caused its performance degradation, subsequently impacting downstream services possibly including ts-station-service, leading to observed anomalies and degraded user experience without explicit error logs.",
+    "confidence_scores": {
+      "ts-auth-service_cpu": 0.75,
+      "ts-config-service_latency": 0.3,
+      "ts-order-service_cpu": 0.9,
+      "ts-route-plan-service_mem": 0.65,
+      "ts-station-service_mem": 0.85
+    },
+    "final_ranking": [
+      "ts-order-service_cpu",
+      "ts-station-service_mem",
+      "ts-auth-service_cpu",
+      "ts-config-service_latency",
+      "ts-route-plan-service_mem"
+    ],
+    "ranking_rationale": "The ts-order-service_cpu exhibits a high anomaly score (0.80) and a sharp CPU spike indicative of silent CPU saturation without error logs, fitting the 'Silent Killer' profile and satisfying the highest confidence among candidates. Ts-station-service_mem has a slightly higher anomaly score (0.85) but stable memory usage with no increase trend, making it a plausible secondary candidate but less explanatory of incident impact. Ts-auth-service_cpu, ts-config-service_latency, and ts-route-plan-service_mem all have lower anomaly confidence scores (all below 0.8 except ts-auth-service_cpu at 0.75), stable metrics, and no evidence of resource saturation or errors, reducing their likelihood as root cause. No latency chain conflicts or deeper callee contradictions are present. Prioritizing resource saturation with highest anomaly and no log errors aligns with the rules."
+  }
+}

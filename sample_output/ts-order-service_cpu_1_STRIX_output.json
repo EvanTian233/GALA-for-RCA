@@ -1,0 +1,410 @@
+{
+  "methodology_description": "The service ranking below is generated using the STRIX framework",
+  "analysis_results": [
+    {
+      "rank": 1,
+      "service_name": "ts-auth-service",
+      "rrf_score": 0.04529,
+      "metrics": {
+        "instability_p99_p50_ratio": 392.48,
+        "centrality_topological_risk": 0.0212,
+        "impact_self_wasted_time_ms": 700226295.0
+      },
+      "metric_ranks": {
+        "instability_rank": 1,
+        "centrality_rank": 20,
+        "impact_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "service_name": "ts-user-service",
+      "rrf_score": 0.0441,
+      "metrics": {
+        "instability_p99_p50_ratio": 82.49,
+        "centrality_topological_risk": 0.0746,
+        "impact_self_wasted_time_ms": 14182811.0
+      },
+      "metric_ranks": {
+        "instability_rank": 2,
+        "centrality_rank": 12,
+        "impact_rank": 11
+      }
+    },
+    {
+      "rank": 3,
+      "service_name": "ts-station-service",
+      "rrf_score": 0.04376,
+      "metrics": {
+        "instability_p99_p50_ratio": 4.51,
+        "centrality_topological_risk": 0.9409,
+        "impact_self_wasted_time_ms": 263486394.0
+      },
+      "metric_ranks": {
+        "instability_rank": 27,
+        "centrality_rank": 1,
+        "impact_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "service_name": "ts-route-service",
+      "rrf_score": 0.04363,
+      "metrics": {
+        "instability_p99_p50_ratio": 8.77,
+        "centrality_topological_risk": 0.1889,
+        "impact_self_wasted_time_ms": 190757264.0
+      },
+      "metric_ranks": {
+        "instability_rank": 21,
+        "centrality_rank": 2,
+        "impact_rank": 6
+      }
+    },
+    {
+      "rank": 5,
+      "service_name": "ts-train-service",
+      "rrf_score": 0.04299,
+      "metrics": {
+        "instability_p99_p50_ratio": 8.33,
+        "centrality_topological_risk": 0.1889,
+        "impact_self_wasted_time_ms": 170276521.0
+      },
+      "metric_ranks": {
+        "instability_rank": 22,
+        "centrality_rank": 3,
+        "impact_rank": 7
+      }
+    },
+    {
+      "rank": 6,
+      "service_name": "ts-ticketinfo-service",
+      "rrf_score": 0.04299,
+      "metrics": {
+        "instability_p99_p50_ratio": 11.73,
+        "centrality_topological_risk": 0.0981,
+        "impact_self_wasted_time_ms": 220427931.0
+      },
+      "metric_ranks": {
+        "instability_rank": 19,
+        "centrality_rank": 8,
+        "impact_rank": 4
+      }
+    },
+    {
+      "rank": 7,
+      "service_name": "ts-order-service",
+      "rrf_score": 0.04297,
+      "metrics": {
+        "instability_p99_p50_ratio": 41.22,
+        "centrality_topological_risk": 0.1622,
+        "impact_self_wasted_time_ms": 0.0
+      },
+      "metric_ranks": {
+        "instability_rank": 6,
+        "centrality_rank": 4,
+        "impact_rank": 22
+      }
+    },
+    {
+      "rank": 8,
+      "service_name": "ts-order-other-service",
+      "rrf_score": 0.04197,
+      "metrics": {
+        "instability_p99_p50_ratio": 26.16,
+        "centrality_topological_risk": 0.1587,
+        "impact_self_wasted_time_ms": 0.0
+      },
+      "metric_ranks": {
+        "instability_rank": 11,
+        "centrality_rank": 5,
+        "impact_rank": 20
+      }
+    },
+    {
+      "rank": 9,
+      "service_name": "ts-basic-service",
+      "rrf_score": 0.04161,
+      "metrics": {
+        "instability_p99_p50_ratio": 13.2,
+        "centrality_topological_risk": 0.0218,
+        "impact_self_wasted_time_ms": 288215855.51
+      },
+      "metric_ranks": {
+        "instability_rank": 18,
+        "centrality_rank": 19,
+        "impact_rank": 2
+      }
+    },
+    {
+      "rank": 10,
+      "service_name": "ts-travel-service",
+      "rrf_score": 0.04155,
+      "metrics": {
+        "instability_p99_p50_ratio": 63.24,
+        "centrality_topological_risk": 0.0382,
+        "impact_self_wasted_time_ms": 0.0
+      },
+      "metric_ranks": {
+        "instability_rank": 3,
+        "centrality_rank": 15,
+        "impact_rank": 21
+      }
+    },
+    {
+      "rank": 11,
+      "service_name": "ts-config-service",
+      "rrf_score": 0.04154,
+      "metrics": {
+        "instability_p99_p50_ratio": 6.62,
+        "centrality_topological_risk": 0.1108,
+        "impact_self_wasted_time_ms": 56416310.0
+      },
+      "metric_ranks": {
+        "instability_rank": 24,
+        "centrality_rank": 7,
+        "impact_rank": 8
+      }
+    },
+    {
+      "rank": 12,
+      "service_name": "ts-seat-service",
+      "rrf_score": 0.04153,
+      "metrics": {
+        "instability_p99_p50_ratio": 14.28,
+        "centrality_topological_risk": 0.0327,
+        "impact_self_wasted_time_ms": 205889826.56
+      },
+      "metric_ranks": {
+        "instability_rank": 17,
+        "centrality_rank": 16,
+        "impact_rank": 5
+      }
+    },
+    {
+      "rank": 13,
+      "service_name": "ts-price-service",
+      "rrf_score": 0.04127,
+      "metrics": {
+        "instability_p99_p50_ratio": 5.68,
+        "centrality_topological_risk": 0.1256,
+        "impact_self_wasted_time_ms": 33397240.0
+      },
+      "metric_ranks": {
+        "instability_rank": 26,
+        "centrality_rank": 6,
+        "impact_rank": 9
+      }
+    },
+    {
+      "rank": 14,
+      "service_name": "ts-travel2-service",
+      "rrf_score": 0.04127,
+      "metrics": {
+        "instability_p99_p50_ratio": 53.41,
+        "centrality_topological_risk": 0.0258,
+        "impact_self_wasted_time_ms": 0.0
+      },
+      "metric_ranks": {
+        "instability_rank": 4,
+        "centrality_rank": 17,
+        "impact_rank": 19
+      }
+    },
+    {
+      "rank": 15,
+      "service_name": "ts-contacts-service",
+      "rrf_score": 0.04112,
+      "metrics": {
+        "instability_p99_p50_ratio": 23.92,
+        "centrality_topological_risk": 0.0746,
+        "impact_self_wasted_time_ms": 5451529.0
+      },
+      "metric_ranks": {
+        "instability_rank": 13,
+        "centrality_rank": 11,
+        "impact_rank": 15
+      }
+    },
+    {
+      "rank": 16,
+      "service_name": "ts-payment-service",
+      "rrf_score": 0.04104,
+      "metrics": {
+        "instability_p99_p50_ratio": 33.53,
+        "centrality_topological_risk": 0.0545,
+        "impact_self_wasted_time_ms": 2086655.0
+      },
+      "metric_ranks": {
+        "instability_rank": 8,
+        "centrality_rank": 14,
+        "impact_rank": 18
+      }
+    },
+    {
+      "rank": 17,
+      "service_name": "ts-consign-price-service",
+      "rrf_score": 0.04099,
+      "metrics": {
+        "instability_p99_p50_ratio": 21.3,
+        "centrality_topological_risk": 0.0786,
+        "impact_self_wasted_time_ms": 3006984.0
+      },
+      "metric_ranks": {
+        "instability_rank": 14,
+        "centrality_rank": 9,
+        "impact_rank": 17
+      }
+    },
+    {
+      "rank": 18,
+      "service_name": "ts-assurance-service",
+      "rrf_score": 0.04078,
+      "metrics": {
+        "instability_p99_p50_ratio": 20.24,
+        "centrality_topological_risk": 0.0746,
+        "impact_self_wasted_time_ms": 4723649.0
+      },
+      "metric_ranks": {
+        "instability_rank": 15,
+        "centrality_rank": 10,
+        "impact_rank": 16
+      }
+    },
+    {
+      "rank": 19,
+      "service_name": "ts-food-map-service",
+      "rrf_score": 0.0399,
+      "metrics": {
+        "instability_p99_p50_ratio": 9.98,
+        "centrality_topological_risk": 0.0566,
+        "impact_self_wasted_time_ms": 13883523.0
+      },
+      "metric_ranks": {
+        "instability_rank": 20,
+        "centrality_rank": 13,
+        "impact_rank": 13
+      }
+    },
+    {
+      "rank": 20,
+      "service_name": "ts-food-service",
+      "rrf_score": 0.03939,
+      "metrics": {
+        "instability_p99_p50_ratio": 15.27,
+        "centrality_topological_risk": 0.0186,
+        "impact_self_wasted_time_ms": 14010085.1
+      },
+      "metric_ranks": {
+        "instability_rank": 16,
+        "centrality_rank": 21,
+        "impact_rank": 12
+      }
+    },
+    {
+      "rank": 21,
+      "service_name": "ts-security-service",
+      "rrf_score": 0.03887,
+      "metrics": {
+        "instability_p99_p50_ratio": 27.55,
+        "centrality_topological_risk": 0.0249,
+        "impact_self_wasted_time_ms": 0.0
+      },
+      "metric_ranks": {
+        "instability_rank": 10,
+        "centrality_rank": 18,
+        "impact_rank": 25
+      }
+    },
+    {
+      "rank": 22,
+      "service_name": "ts-consign-service",
+      "rrf_score": 0.03875,
+      "metrics": {
+        "instability_p99_p50_ratio": 33.59,
+        "centrality_topological_risk": 0.0106,
+        "impact_self_wasted_time_ms": 0.0
+      },
+      "metric_ranks": {
+        "instability_rank": 7,
+        "centrality_rank": 22,
+        "impact_rank": 26
+      }
+    },
+    {
+      "rank": 23,
+      "service_name": "ts-preserve-other-service",
+      "rrf_score": 0.03837,
+      "metrics": {
+        "instability_p99_p50_ratio": 41.79,
+        "centrality_topological_risk": 0.0019,
+        "impact_self_wasted_time_ms": 0.0
+      },
+      "metric_ranks": {
+        "instability_rank": 5,
+        "centrality_rank": 27,
+        "impact_rank": 27
+      }
+    },
+    {
+      "rank": 24,
+      "service_name": "ts-admin-travel-service",
+      "rrf_score": 0.03824,
+      "metrics": {
+        "instability_p99_p50_ratio": 7.52,
+        "centrality_topological_risk": 0.0071,
+        "impact_self_wasted_time_ms": 30014271.0
+      },
+      "metric_ranks": {
+        "instability_rank": 23,
+        "centrality_rank": 24,
+        "impact_rank": 10
+      }
+    },
+    {
+      "rank": 25,
+      "service_name": "ts-preserve-service",
+      "rrf_score": 0.03803,
+      "metrics": {
+        "instability_p99_p50_ratio": 33.03,
+        "centrality_topological_risk": 0.0019,
+        "impact_self_wasted_time_ms": 0.0
+      },
+      "metric_ranks": {
+        "instability_rank": 9,
+        "centrality_rank": 26,
+        "impact_rank": 24
+      }
+    },
+    {
+      "rank": 26,
+      "service_name": "ts-inside-payment-service",
+      "rrf_score": 0.0377,
+      "metrics": {
+        "instability_p99_p50_ratio": 24.34,
+        "centrality_topological_risk": 0.0053,
+        "impact_self_wasted_time_ms": 0.0
+      },
+      "metric_ranks": {
+        "instability_rank": 12,
+        "centrality_rank": 25,
+        "impact_rank": 23
+      }
+    },
+    {
+      "rank": 27,
+      "service_name": "ts-admin-basic-info-service",
+      "rrf_score": 0.03733,
+      "metrics": {
+        "instability_p99_p50_ratio": 5.88,
+        "centrality_topological_risk": 0.0071,
+        "impact_self_wasted_time_ms": 5668461.21
+      },
+      "metric_ranks": {
+        "instability_rank": 25,
+        "centrality_rank": 23,
+        "impact_rank": 14
+      }
+    }
+  ]
+}

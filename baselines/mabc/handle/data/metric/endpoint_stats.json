@@ -1,0 +1,6551 @@
+{
+  "currencyservice/Convert": {
+    "2024-01-15 13:57:00": {
+      "calls": 904,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.9502161076638551,
+      "timeout_rate": 0.995575221238938
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 1710,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.6069605777138158,
+      "timeout_rate": 0.5847953216374269
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 1693,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.0447434922751773,
+      "timeout_rate": 1.1222681630242173
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 1720,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.2249430811682414,
+      "timeout_rate": 1.2790697674418605
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 1762,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.8692430199613366,
+      "timeout_rate": 0.9080590238365494
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 1634,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.121277976065254,
+      "timeout_rate": 1.2239902080783354
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 1700,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.0857489372702205,
+      "timeout_rate": 1.2352941176470589
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 1784,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.4169073404218049,
+      "timeout_rate": 1.5134529147982063
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 1723,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.3802193383179773,
+      "timeout_rate": 1.5089959373186304
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 1627,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.3080113838256762,
+      "timeout_rate": 1.5365703749231714
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 1668,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.5816092731283724,
+      "timeout_rate": 1.7985611510791366
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 1696,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.4016536496720224,
+      "timeout_rate": 1.474056603773585
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 1641,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.6941932617782602,
+      "timeout_rate": 1.8281535648994516
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 1572,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.53586739498847,
+      "timeout_rate": 1.6539440203562341
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 1748,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.718516893190432,
+      "timeout_rate": 1.8878718535469108
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 1705,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.8948875091642229,
+      "timeout_rate": 0.9970674486803519
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 1635,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.0700853820240825,
+      "timeout_rate": 1.1009174311926606
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 1622,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.5397158997861438,
+      "timeout_rate": 1.6646115906288532
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 1551,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.8958857503727434,
+      "timeout_rate": 0.9026434558349452
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 1585,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.0256960703371452,
+      "timeout_rate": 1.135646687697161
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 1594,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.220783841505254,
+      "timeout_rate": 1.3801756587202008
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 1615,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.3903686145510836,
+      "timeout_rate": 1.4860681114551084
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 1673,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.605314064367902,
+      "timeout_rate": 1.7931858936043037
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 1573,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.4103909229974572,
+      "timeout_rate": 1.5257469802924348
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 689,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.4986361433009796,
+      "timeout_rate": 1.5965166908563135
+    }
+  },
+  "frontendservice/GetProduct": {
+    "2024-01-15 13:57:00": {
+      "calls": 1993,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.219881401310838,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 3476,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.3743888758405856,
+      "timeout_rate": 0.11507479861910241
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 3405,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.312099623715125,
+      "timeout_rate": 0.14684287812041116
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 3219,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.2534847111389404,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 3638,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.3099382682578,
+      "timeout_rate": 0.02748763056624519
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 3391,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.2520237537092673,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 3359,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.2572650551689493,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 3550,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.2410014579665494,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 3400,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.33163480870864,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 3502,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.371802608330954,
+      "timeout_rate": 0.08566533409480297
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 3474,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.2258113142945812,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 3458,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.443196991125651,
+      "timeout_rate": 0.20242914979757085
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 3307,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.3757437909878667,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 3475,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.3659032149280574,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 3481,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.3861219695983555,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 3457,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.3043522568565593,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 3270,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.2242685487146407,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 3310,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.2640685481967524,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 3422,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.290986801851987,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 3408,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.3396902308217795,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 3464,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.360156616492855,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 3466,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.256389074221004,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 3494,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.3141442808206927,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 3426,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.46926813966269,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 1365,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.442688480139652,
+      "timeout_rate": 0.0
+    }
+  },
+  "frontendservice/Convert": {
+    "2024-01-15 13:57:00": {
+      "calls": 828,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 71.53539921120169,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 1609,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 67.86754043417884,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 1635,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 66.4123588911984,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 1632,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 77.31647820566215,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 1648,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 73.97375458652533,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 1584,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 72.55554060502486,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 1595,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 69.81486793446317,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 1654,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 69.69075250222,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 1629,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 73.53619815646103,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 1543,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 68.86925027467798,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 1590,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 60.83809760711478,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 1607,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 77.0924422448662,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 1539,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 74.77217539290936,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 1476,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 72.0131276862085,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 1650,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 80.33513242779357,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 1599,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 72.00393434373045,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 1547,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 59.95918527416976,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 1535,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 57.6236076827158,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 1475,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 65.74986295021186,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 1459,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 67.73416365688185,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 1480,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 68.79909519504857,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 1529,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 64.04297976746443,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 1572,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 66.69573291264115,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 1475,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 62.83976545948093,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 674,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 65.94612171388168,
+      "timeout_rate": 0.0
+    }
+  },
+  "productcatalogservice/GetProduct": {
+    "2024-01-15 13:57:00": {
+      "calls": 2050,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010641911204268292,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 3549,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010266976613130458,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 3445,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.01054361506712627,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 3282,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.013198992016110604,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 3718,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010715856033990048,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 3431,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010918871024300496,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 3430,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.011540021979774053,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 3642,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010454005032434103,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 3465,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.013205154220779221,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 3563,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010964127293537749,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 3530,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010588786959985835,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 3526,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.011138310164669598,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 3381,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010310374149659863,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 3540,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010967914128707627,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 3548,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.011053005764691376,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 3534,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010518426468767685,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 3332,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010600700241033914,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 3368,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010556689917050178,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 3473,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010900776975957385,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 3501,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010692815445586975,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 3544,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010538139946035554,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 3527,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010733258058371137,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 3563,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010505721236493125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 3497,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010736113655454675,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 1376,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.011065993198128633,
+      "timeout_rate": 0.0
+    }
+  },
+  "frontendservice/ListRecommendations": {
+    "2024-01-15 13:57:00": {
+      "calls": 313,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.933784070487221,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 545,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 8.332905676605504,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 531,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.991293697033898,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 501,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.942548984063124,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 564,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 9.159323834358378,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 528,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.889096809156014,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 524,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.877330983868082,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 553,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.744873046875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 533,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 8.502080920936914,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 552,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.991381659024004,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 543,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.67708827909185,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 534,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 8.064319624882959,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 519,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 50.88919261425217,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 550,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 76.18934303977272,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 545,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 79.42365117904244,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 544,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 70.95327713910271,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 518,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 65.7294153633265,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 525,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 68.37735863095239,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 537,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 72.62174115456239,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 537,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 74.34450060739641,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 553,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 74.66125598652238,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 555,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 72.8024510838964,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 551,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 75.01163057579969,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 536,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 74.74391470382463,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 213,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 75.56462849361796,
+      "timeout_rate": 0.0
+    }
+  },
+  "recommendationservice/ListRecommendations": {
+    "2024-01-15 13:57:00": {
+      "calls": 313,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.6204900284544728,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 545,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.7844224842316514,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 531,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.6821987920786254,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 501,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.7256546477357784,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 564,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.1608583707335995,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 528,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.662037704930161,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 524,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.654814509035067,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 553,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.624343954848553,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 533,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.112153072965525,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 552,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.6819860486016758,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 543,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.564935561262661,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 534,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.726870190338249,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 519,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 20.7619398407394,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 550,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 31.990760387073863,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 545,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 34.01282208643922,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 544,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 31.972193549661075,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 518,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 28.55121862934363,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 525,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 30.48391555059524,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 537,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 33.8023192904737,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 537,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 33.67530297078678,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 553,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 34.1965883886189,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 555,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 33.38841585726351,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 551,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 34.50684612848798,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 536,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 34.4977612851271,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 213,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 32.63908565324237,
+      "timeout_rate": 0.0
+    }
+  },
+  "recommendationservice/ListProducts": {
+    "2024-01-15 13:57:00": {
+      "calls": 313,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1179612619808306,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 545,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1499655067373853,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 531,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1652919388535783,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 501,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.196360209268962,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 564,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.488247918744459,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 528,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1629999334161933,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 524,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1601157152015746,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 553,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.115025553091094,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 533,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.5760930904080674,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 552,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.166508329087409,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 543,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.066791119935543,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 534,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.2251506905430714,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 519,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 16.67023281325265,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 550,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 24.890778142755682,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 545,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 29.17654323752867,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 544,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 24.669486550723803,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 518,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 22.644205572062017,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 525,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 23.886766648065475,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 537,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 26.593364921584033,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 537,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 26.37645666026536,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 553,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 26.448085902181283,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 555,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 25.40603225295608,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 551,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 26.820331995803084,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 536,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 27.53692718050373,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 213,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 27.013958425029344,
+      "timeout_rate": 0.0
+    }
+  },
+  "productcatalogservice/ListProducts": {
+    "2024-01-15 13:57:00": {
+      "calls": 351,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.012332927127849003,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 631,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.013187462856576862,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 620,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.01281068863407258,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 592,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.013104413006756757,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 641,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.012364713338533541,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 615,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.012527788363821138,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 604,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.015925325305256623,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 638,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.013562432650862068,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 619,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.01718489688509693,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 628,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.017021422173566877,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 623,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.013246294392054575,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 612,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.014083164190155229,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 598,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.013665342809364548,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 623,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.013221997893258427,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 631,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.013261749702852614,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 629,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.012817188742050874,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 605,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.012579900568181817,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 610,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.01230989049692623,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 605,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.014504374354338843,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 607,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.012787418271210873,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 630,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.013713340153769842,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 637,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.015252081902472528,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 637,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.015318386970172685,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 607,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.012737544403830313,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 249,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.013582650916164658,
+      "timeout_rate": 0.0
+    }
+  },
+  "frontendservice": {
+    "2024-01-15 13:57:00": {
+      "calls": 426,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 238.24660495525234,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 792,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 236.41590526850536,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 770,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 223.11938381442775,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 723,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 259.47538772097596,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 805,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 246.95083796341225,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 767,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 238.92938479108946,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 752,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 235.2373981881649,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 804,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 234.54860129285214,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 767,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 265.9411598812337,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 782,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 227.43017578125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 781,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 203.79948458506723,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 756,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 266.5263933454241,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 735,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 290.07301133343964,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 770,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 270.9678450943588,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 800,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 307.9432919311523,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 786,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 274.73445793326573,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 741,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 245.93200172908232,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 756,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 244.69731600322422,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 747,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 253.81688472640562,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 744,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 270.5842659242692,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 773,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 269.7051814031169,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 796,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 258.81482086948415,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 791,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 267.00776311630847,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 744,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 271.56090258526547,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 316,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 278.7038419699367,
+      "timeout_rate": 0.0
+    }
+  },
+  "frontendservice/GetSupportedCurrencies": {
+    "2024-01-15 13:57:00": {
+      "calls": 350,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 58.373572823660716,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 631,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 49.49689155977615,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 622,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 48.110817470734524,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 590,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 56.59477373543432,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 642,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 54.821546893253505,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 618,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 58.878057683555824,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 607,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 50.440674230333606,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 631,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 55.4013973665313,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 620,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 58.157408880418345,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 627,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 52.590196137983455,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 623,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 53.18612724781802,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 614,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 54.52007281275448,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 597,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 55.33583117409967,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 622,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 56.091268557827576,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 632,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 65.64482638202136,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 629,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 60.62094315133148,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 604,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 53.613625229589196,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 611,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 45.70479282809943,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 608,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 53.78487516704359,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 603,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 53.94416426979685,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 630,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 56.073307291666666,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 639,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 53.1760979832991,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 636,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 56.83932168828616,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 606,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 47.22600895343441,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 252,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 52.46278793092758,
+      "timeout_rate": 0.0
+    }
+  },
+  "frontendservice/GetAds": {
+    "2024-01-15 13:57:00": {
+      "calls": 240,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.10648193359375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 448,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.502875191824777,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 451,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.7514832490299335,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 415,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.0214131918298195,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 431,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.2717715659440256,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 445,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.9439634173103935,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 425,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.9635386029411763,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 427,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.089914647980094,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 424,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1292741883475825,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 430,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.0394071357194767,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 443,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.034527436336061,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 430,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.484923464752907,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 427,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1928562280444965,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 431,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.086507350275522,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 436,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1048175216814795,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 423,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.0219749649083925,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 420,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.9650611514136904,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 428,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.055584203417056,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 414,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.985555602732488,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 410,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.0043236709222563,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 440,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1497386585582388,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 443,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.082125489383465,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 449,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.063337364281737,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 414,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.130886501736111,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 172,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1641434070675873,
+      "timeout_rate": 0.0
+    }
+  },
+  "currencyservice/GetSupportedCurrencies": {
+    "2024-01-15 13:57:00": {
+      "calls": 350,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.6514208984375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 631,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.7432340933290412,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 620,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.31137498424899196,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 592,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.36871667810388514,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 642,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.5083312037577882,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 617,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.0733767220421393,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 608,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.746316207082648,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 631,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.5414207204585975,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 620,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.7472593245967742,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 627,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.5763762989683014,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 623,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.072221342671549,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 613,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2856357692699837,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 597,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.7127683502146147,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 623,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.6273665573585474,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 632,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.5432457259938687,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 628,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.9600499633011544,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 605,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.7957313726756199,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 609,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2506943375410509,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 609,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.6163091549928161,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 603,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.34882310452943616,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 630,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.0670491536458333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 638,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.7813590596835815,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 637,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2604447728610675,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 606,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.5484449934251238,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 251,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.7382442884711156,
+      "timeout_rate": 0.0
+    }
+  },
+  "frontendservice/GetCart": {
+    "2024-01-15 13:57:00": {
+      "calls": 332,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 18.690872376223645,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 603,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 31.163899334706674,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 601,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 20.55157419925125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 568,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 10.02178955078125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 607,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 17.18383829283361,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 599,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 10.217800337802588,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 583,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 23.50952734710013,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 593,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 16.833827927381957,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 591,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 33.922282314139174,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 604,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 24.526715209152524,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 601,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 11.336080897072588,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 590,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 27.09721721067267,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 569,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 32.59878641943102,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 593,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 8.44661801420215,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 601,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 11.919933655496049,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 598,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.472078967652592,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 578,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 8.543921658737025,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 581,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 20.69026160445353,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 585,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 8.351089660122863,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 570,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 14.148540724369518,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 596,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 13.998690816380034,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 612,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 18.803984199474062,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 606,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 13.00800910169142,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 579,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 32.626894514383636,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 247,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 23.927950839764677,
+      "timeout_rate": 0.0
+    }
+  },
+  "emailservice/Check": {
+    "2024-01-15 13:57:00": {
+      "calls": 14,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.04905482700892857,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.044932047526041664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.042083740234375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.046417236328125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.045196533203125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.05145263671875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.048441569010416664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.04296875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.041280110677083336,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.04193115234375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.041585286458333336,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.045735677083333336,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.050710042317708336,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.046773274739583336,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.044586181640625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.053273518880208336,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.0479736328125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.043772379557291664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.043375651041666664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.042704264322916664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.04327392578125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.0535888671875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.047943115234375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.04815673828125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 10,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.0430419921875,
+      "timeout_rate": 0.0
+    }
+  },
+  "frontendservice/PlaceOrder": {
+    "2024-01-15 13:57:00": {
+      "calls": 18,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 382.91767035590277,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 369.6404506138393,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 241.9680047286184,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 300.0912170410156,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 330.49877211626836,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 329.0671643708882,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 391.26349609375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 38,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 340.4046052631579,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 345.51645002693965,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 335.61484162703806,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 22,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 295.56528542258525,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 410.5352071126302,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 390.9416232638889,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 279.0640869140625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 31,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 321.11851058467744,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 31,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 310.2960165700605,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 26,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 298.3973858173077,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 218.17728818696122,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 242.11637369791666,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 33,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 325.740508108428,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 277.8120332605699,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 290.28466796875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 32,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 271.11576080322266,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 344.9208893952546,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 4,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 517.498291015625,
+      "timeout_rate": 0.0
+    }
+  },
+  "checkoutservice/GetCart": {
+    "2024-01-15 13:57:00": {
+      "calls": 18,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.395168728298611,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 35.08445521763393,
+      "timeout_rate": 3.5714285714285716
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.103965357730263,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.171162923177083,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 23.697086109834558,
+      "timeout_rate": 2.9411764705882355
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.3147229646381575,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 27.525166015625,
+      "timeout_rate": 4.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 38,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.941868832236842,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 29.29845770474138,
+      "timeout_rate": 3.4482758620689653
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.235415251358695,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 22,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.0750954367897725,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.500996907552083,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 25.66680230034722,
+      "timeout_rate": 3.7037037037037037
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.9964274088541667,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 31,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.005599483366935,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 31,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.8161148563508065,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 26,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.9532001201923075,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.9684216729525863,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.8382975260416665,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 33,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.6746937144886362,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.8991986443014706,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.66306640625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 32,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.9274673461914062,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 29.25954861111111,
+      "timeout_rate": 3.7037037037037037
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 4,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 201.0460205078125,
+      "timeout_rate": 25.0
+    }
+  },
+  "checkoutservice/PlaceOrder": {
+    "2024-01-15 13:57:00": {
+      "calls": 18,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 379.90147569444446,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 366.707772391183,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 239.06103515625,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 297.1780293782552,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 327.4986213235294,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 326.16933079769734,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 388.490791015625,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 38,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 337.5817100123355,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 342.45633250269395,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 332.6107761548913,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 22,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 292.70564408735794,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 407.67491658528644,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 387.91125036168984,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 276.05333658854164,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 31,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 318.2398642263105,
+      "timeout_rate": 96.7741935483871
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 31,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 307.36551001764116,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 26,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 295.55734487680286,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 215.19906721443965,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 239.0866902669271,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 33,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 322.85132575757575,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 274.84475528492646,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 287.465576171875,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 32,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 268.2048110961914,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 341.784107349537,
+      "timeout_rate": 100.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 4,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 513.9527587890625,
+      "timeout_rate": 100.0
+    }
+  },
+  "checkoutservice/GetProduct": {
+    "2024-01-15 13:57:00": {
+      "calls": 57,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.7648240474232457,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 73,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.5547175995291096,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 40,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.51263427734375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 63,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.6797688802083335,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 80,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.6682403564453123,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 40,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.84764404296875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 71,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.817162742077465,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 92,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.6512690005095108,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 65,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.6635779747596153,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 61,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.710445216444672,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 56,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.594975062779018,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 68,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.581320369944853,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 74,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.399275496199324,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 65,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.6417255108173077,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 68,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.6461935604319855,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 76,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.4309403268914473,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 62,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.5408187373991935,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 58,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.4744241648706895,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 51,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.3954120710784315,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 93,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.436150663642473,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 80,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.4349395751953127,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 61,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.5487480788934427,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 69,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.4677026721014492,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 71,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.6706130336707745,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 11,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.5123401988636362,
+      "timeout_rate": 0.0
+    }
+  },
+  "checkoutservice/Convert": {
+    "2024-01-15 13:57:00": {
+      "calls": 75,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 72.6096484375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 101,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 71.69235380569307,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 59,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 66.88796428098517,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 87,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 72.90141769935344,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 114,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 76.52980443050987,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 59,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 94.79649844412076,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 96,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 82.3630599975586,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 130,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 89.00821251502404,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 94,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 79.67567216589096,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 84,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 81.37933930896577,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 78,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 73.4048571464343,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 91,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 97.63952502575549,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 102,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 73.93868240655637,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 95,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 77.4295564350329,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 99,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 88.56854679608585,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 106,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 79.80986051739387,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 89,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 78.39874747629916,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 87,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 61.84982545348419,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 75,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 66.86732421875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 126,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 76.0338367280506,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 114,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 72.32423159950658,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 86,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 74.44341331304506,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 101,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 75.45038385674505,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 98,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 70.58722546635842,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 15,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 75.42509765625,
+      "timeout_rate": 0.0
+    }
+  },
+  "frontendservice/ListProducts": {
+    "2024-01-15 13:57:00": {
+      "calls": 38,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.3382761101973686,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 86,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.2453215843023258,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 89,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.113209928019663,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 91,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.3109707675137363,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 77,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.5714475953733764,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 87,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.3022488999640807,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 80,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1509857177734375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 85,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.3431324678308822,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 86,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.291583393895349,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 76,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.4164910567434212,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 80,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.0122283935546874,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 78,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1558368389423075,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 79,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.141369783425633,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 73,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.271788714683219,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 86,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.0531261355377906,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 85,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.0474408318014707,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 87,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.931853897270115,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 85,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.016501034007353,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 68,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.886374080882353,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 70,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.883238002232143,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 77,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1079196682224026,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 82,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.8516488424161586,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 86,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.005978606468023,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 71,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.9216136663732395,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 36,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.296176486545139,
+      "timeout_rate": 0.0
+    }
+  },
+  "checkoutservice/GetQuote": {
+    "2024-01-15 13:57:00": {
+      "calls": 18,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.3371988932291665,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.5145699637276784,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.602975945723684,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.556640625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.790240119485294,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.7991622121710527,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.48431640625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 38,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.681981136924342,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.043246565193965,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.020847486413044,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 22,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.4960271661931817,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.5813094429347827,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.5087193080357144,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.513785807291667,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 31,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.6933987525201615,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.7327229817708334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.367160373263889,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.4937449488146552,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.5092061360677085,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 33,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.856467507102273,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.980691348805147,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.84357421875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 32,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.460723876953125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.471851490162037,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 4,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.687744140625,
+      "timeout_rate": 0.0
+    }
+  },
+  "checkoutservice/Charge": {
+    "2024-01-15 13:57:00": {
+      "calls": 18,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 6.261379665798611,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 6.807948521205357,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 6.203022203947368,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 5.981791178385417,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 6.028406479779412,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 6.060354132401316,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 5.839921875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 38,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 6.647666529605263,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 13.812693628771552,
+      "timeout_rate": 3.4482758620689653
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.517227836277174,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 22,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 6.5614235617897725,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 6.2892323369565215,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 5.692400251116071,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 5.811173502604166,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 31,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 9.599483366935484,
+      "timeout_rate": 3.225806451612903
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 6.325309244791667,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 5.993471498842593,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 5.538607893318965,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 5.946126302083333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 33,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 6.170780066287879,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 6.546077952665441,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 5.74990234375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 32,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 5.8099365234375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 5.858154296875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 4,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 5.98974609375,
+      "timeout_rate": 0.0
+    }
+  },
+  "paymentservice/Charge": {
+    "2024-01-15 13:57:00": {
+      "calls": 18,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.3491075303819444,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.3917323521205357,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.43805252878289475,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.3161417643229167,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.38737936580882354,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.3918328536184211,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.23478515625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 38,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.31363718133223684,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.3903724407327586,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.7322732676630435,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 22,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.3243075284090909,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.30191703464673914,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.25880650111607145,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.24663899739583334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 31,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.611296622983871,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.49717610677083335,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2916304976851852,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2861328125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2502644856770833,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 33,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2192086884469697,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.3384363511029412,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.3005859375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 32,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2783966064453125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.31132450810185186,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 4,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.23046875,
+      "timeout_rate": 0.0
+    }
+  },
+  "checkoutservice/ShipOrder": {
+    "2024-01-15 13:57:00": {
+      "calls": 18,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.9026692708333335,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.4613211495535716,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.872777035361842,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.5731404622395835,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.3033160041360294,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.4711014597039473,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.43513671875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 38,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.062750565378289,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.323292699353448,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.0873280400815215,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 22,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.4210094105113638,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.4477857506793477,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.5322091238839284,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.5386393229166666,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 31,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.873590284778226,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.426652018229167,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.6794524016203702,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.4735065328663794,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.6760965983072915,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 33,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.4320179332386362,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.7364430147058822,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.5434765625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 32,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.627227783203125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.593849464699074,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 4,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.91278076171875,
+      "timeout_rate": 0.0
+    }
+  },
+  "checkoutservice/EmptyCart": {
+    "2024-01-15 13:57:00": {
+      "calls": 18,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 46.04979112413194,
+      "timeout_rate": 5.555555555555555
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 48.146397181919646,
+      "timeout_rate": 10.714285714285714
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.7918893914473686,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.079315185546875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 23.39804974724265,
+      "timeout_rate": 2.9411764705882355
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.8234220805921053,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 19.4716015625,
+      "timeout_rate": 4.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 38,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.826075503700658,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 22.09391837284483,
+      "timeout_rate": 3.4482758620689653
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.8964737601902173,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 22,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.8009033203125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.7483122452445654,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 60.704825265066965,
+      "timeout_rate": 7.142857142857143
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.5809733072916665,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 31,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.850286668346774,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.607682291666667,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.518672236689815,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.7250387257543105,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.7244364420572915,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 33,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.065311316287879,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.929263844209559,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.60150390625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 32,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.5466079711914062,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 31.80270724826389,
+      "timeout_rate": 3.7037037037037037
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 4,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.84173583984375,
+      "timeout_rate": 0.0
+    }
+  },
+  "checkoutservice/SendOrderConfirmation": {
+    "2024-01-15 13:57:00": {
+      "calls": 18,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.9528672960069446,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.7967093331473216,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.821803042763158,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.8429056803385415,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.728946461397059,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.6944387335526314,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.743720703125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 38,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.823775442023026,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.9563493399784484,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.803275730298913,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 22,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.8335515802556817,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.8334748641304346,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.686671665736607,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.917919921875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 31,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.855067099294355,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.734326171875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.631763599537037,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.8284196524784484,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.65594482421875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 33,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.727206143465909,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.806662166819853,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.06544921875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 32,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.6855010986328125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.8588415075231484,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 4,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.072998046875,
+      "timeout_rate": 0.0
+    }
+  },
+  "emailservice/SendOrderConfirmation": {
+    "2024-01-15 13:57:00": {
+      "calls": 18,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.3850640190972222,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.24606759207589285,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.27947676809210525,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2653401692708333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.29199936810661764,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 19,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2889597039473684,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.25787109375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 38,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.29095780222039475,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.32659280711206895,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.24885360054347827,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 22,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2396240234375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 23,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.25666610054347827,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 28,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.27369907924107145,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.3241780598958333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 31,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2922520791330645,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 30,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2825846354166667,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2601363570601852,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 29,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.32208041487068967,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2510274251302083,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 33,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.26123046875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 34,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.2899026309742647,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 25,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.385595703125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 32,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.27263641357421875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 27,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.3130967881944444,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 4,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.19573974609375,
+      "timeout_rate": 0.0
+    }
+  },
+  "frontendservice/GetQuote": {
+    "2024-01-15 13:57:00": {
+      "calls": 94,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.81708672706117,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 155,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.067853767641129,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 149,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.8887980416317114,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 152,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.44390869140625,
+      "timeout_rate": 0.6578947368421053
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 178,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.924752567591292,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 144,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.8265499538845487,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 161,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.8851492745535716,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 171,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.0276692708333335,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 168,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.008210681733631,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 175,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.0566629464285713,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 157,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.4717449990047773,
+      "timeout_rate": 1.2738853503184713
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 157,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.9909356961584397,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 145,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1978162042025864,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 163,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1691025810007667,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 161,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.081593009996118,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 178,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.188233793451545,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 156,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.038383288261218,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 153,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.0454787709354574,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 170,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.0825338924632355,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 164,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.211979563643293,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 156,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1244334685496793,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 167,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1581504958832336,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 158,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1927953792523733,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 165,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1291237571022728,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 73,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.2280173105736303,
+      "timeout_rate": 0.0
+    }
+  },
+  "frontendservice/AddItem": {
+    "2024-01-15 13:57:00": {
+      "calls": 46,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 22.397110648777176,
+      "timeout_rate": 2.1739130434782608
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 89,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 16.887242692240168,
+      "timeout_rate": 2.247191011235955
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 78,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.335784129607371,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 67,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.487603486473881,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 96,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 43.02848815917969,
+      "timeout_rate": 4.166666666666667
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 79,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.56670292721519,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 82,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 10.609628072599085,
+      "timeout_rate": 1.2195121951219512
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 97,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.277384020618556,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 80,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 34.077273559570315,
+      "timeout_rate": 3.75
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 82,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.480534251143292,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 82,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 12.456804973323171,
+      "timeout_rate": 1.2195121951219512
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 79,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.657649945609177,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 73,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.349913714683219,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 91,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 14.459244612809066,
+      "timeout_rate": 2.197802197802198
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 88,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.276012073863637,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 89,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.329057672050562,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 72,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 4.176764594184028,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 74,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 27.846079233530407,
+      "timeout_rate": 2.7027027027027026
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 76,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 14.726103130139803,
+      "timeout_rate": 1.3157894736842106
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 81,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 15.068558304398149,
+      "timeout_rate": 1.2345679012345678
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 80,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 13.48583984375,
+      "timeout_rate": 1.25
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 85,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 39.43525677849264,
+      "timeout_rate": 4.705882352941177
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 92,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 16.01971966287364,
+      "timeout_rate": 2.1739130434782608
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 81,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 16.45974090952932,
+      "timeout_rate": 1.2345679012345678
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 35,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 42.90441545758929,
+      "timeout_rate": 5.714285714285714
+    }
+  },
+  "recommendationservice/Check": {
+    "2024-01-15 13:57:00": {
+      "calls": 14,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.0455322265625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.04046630859375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.045786539713541664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.04608154296875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.044993082682291664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.043385823567708336,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.040618896484375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.043426513671875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.040934244791666664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.04022216796875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.056915283203125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.046183268229166664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06550089518229167,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.045572916666666664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.041554768880208336,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.038045247395833336,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.049224853515625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.056294759114583336,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06299845377604167,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.044158935546875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.052032470703125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.054250081380208336,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.045054117838541664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 24,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.0413818359375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 10,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.0469970703125,
+      "timeout_rate": 0.0
+    }
+  },
+  "checkoutservice/Export": {
+    "2024-01-15 13:57:00": {
+      "calls": 7,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.337437220982143,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1590983072916665,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.59942626953125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.66650390625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.2763468424479165,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.628662109375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.0645548502604165,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.9879964192708335,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.01654052734375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.8947550455729165,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.5631510416666665,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.0820109049479165,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.1639200846354165,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.68505859375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.67645263671875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.5678304036458335,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.9189249674479165,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.8518473307291665,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.8514200846354165,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.8105265299479165,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.8995768229166665,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.8258056640625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.6041666666666665,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 2.9410603841145835,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 5,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 3.201611328125,
+      "timeout_rate": 0.0
+    }
+  },
+  "frontendservice/Export": {
+    "2024-01-15 13:57:00": {
+      "calls": 9,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 11.196912977430555,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 17,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 16.561164407169116,
+      "timeout_rate": 5.882352941176471
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 16,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 16.306289672851562,
+      "timeout_rate": 6.25
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 16,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 17.821563720703125,
+      "timeout_rate": 12.5
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 17,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 15.353802849264707,
+      "timeout_rate": 5.882352941176471
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 16,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 14.991500854492188,
+      "timeout_rate": 6.25
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 16,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 15.268966674804688,
+      "timeout_rate": 6.25
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 17,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 9.784940831801471,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 16,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 9.205398559570312,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 16,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 15.842529296875,
+      "timeout_rate": 6.25
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 17,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 10.79638671875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 16,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 10.433441162109375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 16,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 15.53387451171875,
+      "timeout_rate": 6.25
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 16,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 9.9329833984375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 17,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 9.282643037683824,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 16,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 11.189651489257812,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 16,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 11.426055908203125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 16,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 10.06097412109375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 16,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 10.3040771484375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 15,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 11.503597005208333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 17,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 9.308048023897058,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 16,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 11.306961059570312,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 17,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 10.184871897977942,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 16,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 10.96881103515625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 6,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 10.968343098958334,
+      "timeout_rate": 0.0
+    }
+  },
+  "productcatalogservice/Export": {
+    "2024-01-15 13:57:00": {
+      "calls": 7,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.014857700892857,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.433146158854167,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.465555826822917,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 6.422953287760417,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 8.250569661458334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 8.683837890625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.73089599609375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.5157470703125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 8.518880208333334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.0394287109375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 6.708760579427083,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 6.732991536458333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 8.268575032552084,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.80474853515625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.47613525390625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.05718994140625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 6.897928873697917,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 8.642476399739584,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.813130696614583,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.2877197265625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 9.18572998046875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.837666829427083,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.902567545572917,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.31390380859375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 5,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 7.168994140625,
+      "timeout_rate": 0.0
+    }
+  },
+  "checkoutservice/Check": {
+    "2024-01-15 13:57:00": {
+      "calls": 8,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.009979248046875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.015726725260416668,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.019327799479166668,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.01397705078125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.014485677083333334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010396321614583334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.011494954427083334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.0113525390625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.023335774739583332,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010701497395833334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.013590494791666666,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010579427083333334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.009928385416666666,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.00970458984375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.011250813802083334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.021748860677083332,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.023173014322916668,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.013570149739583334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.015584309895833334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.012837727864583334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.011983235677083334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.01129150390625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010518391927083334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.01190185546875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 4,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.00970458984375,
+      "timeout_rate": 0.0
+    }
+  },
+  "currencyservice/Check": {
+    "2024-01-15 13:57:00": {
+      "calls": 6,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.052693684895833336,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.053080240885416664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.26318359375,
+      "timeout_rate": 8.333333333333334
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06766764322916667,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.0625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.04443359375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.051920572916666664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.055684407552083336,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.062255859375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06766764322916667,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.051615397135416664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.05999755859375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.048929850260416664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.060587565104166664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.09523518880208333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.09285481770833333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.046366373697916664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.061319986979166664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.0562744140625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.046895345052083336,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.07674153645833333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.048258463541666664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 1.3381551106770833,
+      "timeout_rate": 8.333333333333334
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.059916178385416664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 6,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.044718424479166664,
+      "timeout_rate": 0.0
+    }
+  },
+  "paymentservice/Check": {
+    "2024-01-15 13:57:00": {
+      "calls": 6,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.08418782552083333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.14790852864583334,
+      "timeout_rate": 8.333333333333334
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.07491048177083333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06538899739583333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.0697021484375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06817626953125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06545003255208333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06658935546875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06449381510416667,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.07737223307291667,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.07222493489583333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06709798177083333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.07027180989583333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06734212239583333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06376139322916667,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.078369140625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.17159016927083334,
+      "timeout_rate": 16.666666666666668
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.057230631510416664,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06719970703125,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06514485677083333,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06951904296875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06351725260416667,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.0625,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06732177734375,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 6,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.059529622395833336,
+      "timeout_rate": 0.0
+    }
+  },
+  "productcatalogservice/Check": {
+    "2024-01-15 13:57:00": {
+      "calls": 6,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010498046875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:58:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010579427083333334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 13:59:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.07208251953125,
+      "timeout_rate": 8.333333333333334
+    },
+    "2024-01-15 14:00:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.008097330729166666,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:01:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.011332194010416666,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:02:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.009847005208333334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:03:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.01171875,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:04:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.06675211588541667,
+      "timeout_rate": 8.333333333333334
+    },
+    "2024-01-15 14:05:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010355631510416666,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:06:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.009419759114583334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:07:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.011922200520833334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:08:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.009419759114583334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:09:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.009480794270833334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:10:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.018941243489583332,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:11:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.008931477864583334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:12:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.009236653645833334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:13:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.008199055989583334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:14:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010782877604166666,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:15:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.016092936197916668,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:16:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.013773600260416666,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:17:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.009440104166666666,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:18:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010152180989583334,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:19:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010172526041666666,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:20:00": {
+      "calls": 12,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.010538736979166666,
+      "timeout_rate": 0.0
+    },
+    "2024-01-15 14:21:00": {
+      "calls": 6,
+      "success_rate": 100.0,
+      "error_rate": 0.0,
+      "average_duration": 0.009847005208333334,
+      "timeout_rate": 0.0
+    }
+  }
+}

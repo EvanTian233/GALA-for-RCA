@@ -1,0 +1,1104 @@
+{
+  "currencyservice:grpc.hipstershop.CurrencyService/Convert": {
+    "2024-01-15 21:33:00": {
+      "calls": 1561,
+      "average_duration": 0.938
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 1710,
+      "average_duration": 0.933
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 1560,
+      "average_duration": 1.439
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 1750,
+      "average_duration": 0.892
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 1557,
+      "average_duration": 1.02
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 1698,
+      "average_duration": 1.033
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 182,
+      "average_duration": 0.109
+    }
+  },
+  "frontendservice:hipstershop.CurrencyService/Convert": {
+    "2024-01-15 21:33:00": {
+      "calls": 1482,
+      "average_duration": 72.319
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 1612,
+      "average_duration": 76.443
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 1465,
+      "average_duration": 70.634
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 1604,
+      "average_duration": 72.723
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 1454,
+      "average_duration": 73.832
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 1580,
+      "average_duration": 66.504
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 171,
+      "average_duration": 101.119
+    }
+  },
+  "frontendservice:hipstershop.RecommendationService/ListRecommendations": {
+    "2024-01-15 21:33:00": {
+      "calls": 493,
+      "average_duration": 8.156
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 558,
+      "average_duration": 8.379
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 535,
+      "average_duration": 8.009
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 541,
+      "average_duration": 8.636
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 551,
+      "average_duration": 8.544
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 558,
+      "average_duration": 8.049
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 71,
+      "average_duration": 8.357
+    }
+  },
+  "recommendationservice:/hipstershop.RecommendationService/ListRecommendations": {
+    "2024-01-15 21:33:00": {
+      "calls": 493,
+      "average_duration": 3.873
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 558,
+      "average_duration": 3.903
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 535,
+      "average_duration": 3.864
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 541,
+      "average_duration": 4.307
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 551,
+      "average_duration": 3.976
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 558,
+      "average_duration": 3.932
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 71,
+      "average_duration": 3.942
+    }
+  },
+  "recommendationservice:/hipstershop.ProductCatalogService/ListProducts": {
+    "2024-01-15 21:33:00": {
+      "calls": 493,
+      "average_duration": 3.352
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 558,
+      "average_duration": 3.386
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 535,
+      "average_duration": 3.354
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 541,
+      "average_duration": 3.646
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 551,
+      "average_duration": 3.451
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 558,
+      "average_duration": 3.378
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 71,
+      "average_duration": 3.389
+    }
+  },
+  "productcatalogservice:hipstershop.ProductCatalogService/ListProducts": {
+    "2024-01-15 21:33:00": {
+      "calls": 573,
+      "average_duration": 0.015
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 635,
+      "average_duration": 0.015
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 605,
+      "average_duration": 0.015
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 630,
+      "average_duration": 0.016
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 627,
+      "average_duration": 0.015
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 646,
+      "average_duration": 0.015
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 77,
+      "average_duration": 0.016
+    }
+  },
+  "frontendservice:hipstershop.ProductCatalogService/GetProduct": {
+    "2024-01-15 21:33:00": {
+      "calls": 3122,
+      "average_duration": 2.578
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 3605,
+      "average_duration": 2.588
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 3409,
+      "average_duration": 2.57
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 3412,
+      "average_duration": 2.528
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 3441,
+      "average_duration": 2.835
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 3484,
+      "average_duration": 2.499
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 455,
+      "average_duration": 2.591
+    }
+  },
+  "productcatalogservice:hipstershop.ProductCatalogService/GetProduct": {
+    "2024-01-15 21:33:00": {
+      "calls": 3171,
+      "average_duration": 0.013
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 3679,
+      "average_duration": 0.013
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 3480,
+      "average_duration": 0.015
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 3515,
+      "average_duration": 0.015
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 3510,
+      "average_duration": 0.015
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 3565,
+      "average_duration": 0.013
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 459,
+      "average_duration": 0.012
+    }
+  },
+  "frontendservice:hipstershop.AdService/GetAds": {
+    "2024-01-15 21:33:00": {
+      "calls": 416,
+      "average_duration": 3.114
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 444,
+      "average_duration": 3.077
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 422,
+      "average_duration": 2.892
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 429,
+      "average_duration": 3.012
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 437,
+      "average_duration": 3.257
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 447,
+      "average_duration": 2.951
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 48,
+      "average_duration": 3.01
+    }
+  },
+  "frontendservice:frontend": {
+    "2024-01-15 21:33:00": {
+      "calls": 709,
+      "average_duration": 239.717
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 784,
+      "average_duration": 249.569
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 745,
+      "average_duration": 224.2
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 796,
+      "average_duration": 234.04
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 777,
+      "average_duration": 247.009
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 817,
+      "average_duration": 221.543
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 86,
+      "average_duration": 290.105
+    }
+  },
+  "frontendservice:hipstershop.CartService/AddItem": {
+    "2024-01-15 21:33:00": {
+      "calls": 68,
+      "average_duration": 5.032
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 93,
+      "average_duration": 4.779
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 80,
+      "average_duration": 5.143
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 92,
+      "average_duration": 5.101
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 83,
+      "average_duration": 5.041
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 87,
+      "average_duration": 4.799
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 12,
+      "average_duration": 5.972
+    }
+  },
+  "frontendservice:hipstershop.CurrencyService/GetSupportedCurrencies": {
+    "2024-01-15 21:33:00": {
+      "calls": 571,
+      "average_duration": 57.422
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 635,
+      "average_duration": 57.413
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 606,
+      "average_duration": 58.089
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 629,
+      "average_duration": 55.358
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 628,
+      "average_duration": 52.211
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 651,
+      "average_duration": 55.405
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 71,
+      "average_duration": 83.061
+    }
+  },
+  "currencyservice:grpc.hipstershop.CurrencyService/GetSupportedCurrencies": {
+    "2024-01-15 21:33:00": {
+      "calls": 571,
+      "average_duration": 0.798
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 635,
+      "average_duration": 0.767
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 606,
+      "average_duration": 0.561
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 629,
+      "average_duration": 0.596
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 627,
+      "average_duration": 0.333
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 649,
+      "average_duration": 0.524
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 74,
+      "average_duration": 0.084
+    }
+  },
+  "frontendservice:hipstershop.ProductCatalogService/ListProducts": {
+    "2024-01-15 21:33:00": {
+      "calls": 80,
+      "average_duration": 3.4
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 77,
+      "average_duration": 3.374
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 70,
+      "average_duration": 3.436
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 89,
+      "average_duration": 3.446
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 76,
+      "average_duration": 3.469
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 88,
+      "average_duration": 3.19
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 6,
+      "average_duration": 4.075
+    }
+  },
+  "frontendservice:hipstershop.CartService/GetCart": {
+    "2024-01-15 21:33:00": {
+      "calls": 546,
+      "average_duration": 17.698
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 607,
+      "average_duration": 13.238
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 579,
+      "average_duration": 4.855
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 587,
+      "average_duration": 4.758
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 592,
+      "average_duration": 35.01
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 611,
+      "average_duration": 13.476
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 70,
+      "average_duration": 5.146
+    }
+  },
+  "frontendservice:hipstershop.ShippingService/GetQuote": {
+    "2024-01-15 21:33:00": {
+      "calls": 133,
+      "average_duration": 2.685
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 163,
+      "average_duration": 2.945
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 155,
+      "average_duration": 2.906
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 160,
+      "average_duration": 2.909
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 154,
+      "average_duration": 3.021
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 162,
+      "average_duration": 2.841
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 26,
+      "average_duration": 2.921
+    }
+  },
+  "productcatalogservice:opentelemetry.proto.collector.trace.v1.TraceService/Export": {
+    "2024-01-15 21:33:00": {
+      "calls": 11,
+      "average_duration": 9.618
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 12,
+      "average_duration": 8.721
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 12,
+      "average_duration": 12.9
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 12,
+      "average_duration": 8.948
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 12,
+      "average_duration": 8.807
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 12,
+      "average_duration": 6.555
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 1,
+      "average_duration": 6.264
+    }
+  },
+  "frontendservice:opentelemetry.proto.collector.trace.v1.TraceService/Export": {
+    "2024-01-15 21:33:00": {
+      "calls": 15,
+      "average_duration": 11.078
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 17,
+      "average_duration": 9.851
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 16,
+      "average_duration": 9.564
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 16,
+      "average_duration": 13.825
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 17,
+      "average_duration": 12.719
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 16,
+      "average_duration": 10.442
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 2,
+      "average_duration": 11.332
+    }
+  },
+  "recommendationservice:/grpc.health.v1.Health/Check": {
+    "2024-01-15 21:33:00": {
+      "calls": 22,
+      "average_duration": 0.053
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 24,
+      "average_duration": 0.042
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 24,
+      "average_duration": 0.048
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 24,
+      "average_duration": 0.04
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 24,
+      "average_duration": 0.041
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 24,
+      "average_duration": 0.041
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 2,
+      "average_duration": 0.043
+    }
+  },
+  "productcatalogservice:grpc.health.v1.Health/Check": {
+    "2024-01-15 21:33:00": {
+      "calls": 12,
+      "average_duration": 0.009
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 12,
+      "average_duration": 0.012
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 12,
+      "average_duration": 0.01
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 12,
+      "average_duration": 0.013
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 12,
+      "average_duration": 0.013
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 12,
+      "average_duration": 0.012
+    }
+  },
+  "checkoutservice:opentelemetry.proto.collector.trace.v1.TraceService/Export": {
+    "2024-01-15 21:33:00": {
+      "calls": 11,
+      "average_duration": 2.831
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 12,
+      "average_duration": 3.267
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 12,
+      "average_duration": 3.759
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 12,
+      "average_duration": 37.258
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 12,
+      "average_duration": 9.431
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 12,
+      "average_duration": 11.073
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 1,
+      "average_duration": 2.712
+    }
+  },
+  "checkoutservice:grpc.health.v1.Health/Check": {
+    "2024-01-15 21:33:00": {
+      "calls": 12,
+      "average_duration": 0.012
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 12,
+      "average_duration": 0.012
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 12,
+      "average_duration": 0.014
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 12,
+      "average_duration": 0.013
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 12,
+      "average_duration": 0.01
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 12,
+      "average_duration": 1.063
+    }
+  },
+  "frontendservice:hipstershop.CheckoutService/PlaceOrder": {
+    "2024-01-15 21:33:00": {
+      "calls": 26,
+      "average_duration": 242.272
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 28,
+      "average_duration": 368.824
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 27,
+      "average_duration": 328.498
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 41,
+      "average_duration": 377.721
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 35,
+      "average_duration": 355.853
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 38,
+      "average_duration": 376.508
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 4,
+      "average_duration": 206.274
+    }
+  },
+  "checkoutservice:hipstershop.CartService/GetCart": {
+    "2024-01-15 21:33:00": {
+      "calls": 26,
+      "average_duration": 4.189
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 28,
+      "average_duration": 53.521
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 27,
+      "average_duration": 4.481
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 41,
+      "average_duration": 8.327
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 35,
+      "average_duration": 23.351
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 38,
+      "average_duration": 25.672
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 4,
+      "average_duration": 4.377
+    }
+  },
+  "checkoutservice:hipstershop.CheckoutService/PlaceOrder": {
+    "2024-01-15 21:33:00": {
+      "calls": 26,
+      "average_duration": 239.348
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 28,
+      "average_duration": 365.787
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 27,
+      "average_duration": 325.472
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 41,
+      "average_duration": 363.7
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 35,
+      "average_duration": 347.179
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 38,
+      "average_duration": 367.523
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 4,
+      "average_duration": 201.204
+    }
+  },
+  "checkoutservice:hipstershop.ProductCatalogService/GetProduct": {
+    "2024-01-15 21:33:00": {
+      "calls": 49,
+      "average_duration": 2.628
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 74,
+      "average_duration": 2.648
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 71,
+      "average_duration": 2.748
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 103,
+      "average_duration": 5.042
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 69,
+      "average_duration": 6.937
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 81,
+      "average_duration": 5.307
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 4,
+      "average_duration": 9.988
+    }
+  },
+  "checkoutservice:hipstershop.CurrencyService/Convert": {
+    "2024-01-15 21:33:00": {
+      "calls": 75,
+      "average_duration": 72.574
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 102,
+      "average_duration": 78.115
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 98,
+      "average_duration": 80.455
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 144,
+      "average_duration": 83.954
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 104,
+      "average_duration": 81.861
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 119,
+      "average_duration": 88.566
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 8,
+      "average_duration": 75.742
+    }
+  },
+  "checkoutservice:hipstershop.ShippingService/GetQuote": {
+    "2024-01-15 21:33:00": {
+      "calls": 26,
+      "average_duration": 3.272
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 28,
+      "average_duration": 3.434
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 27,
+      "average_duration": 3.764
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 41,
+      "average_duration": 10.659
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 35,
+      "average_duration": 9.378
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 38,
+      "average_duration": 11.275
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 4,
+      "average_duration": 10.029
+    }
+  },
+  "checkoutservice:hipstershop.PaymentService/Charge": {
+    "2024-01-15 21:33:00": {
+      "calls": 26,
+      "average_duration": 5.535
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 28,
+      "average_duration": 5.273
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 26,
+      "average_duration": 6.075
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 42,
+      "average_duration": 9.468
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 35,
+      "average_duration": 9.479
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 38,
+      "average_duration": 11.95
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 4,
+      "average_duration": 5.364
+    }
+  },
+  "paymentservice:grpc.hipstershop.PaymentService/Charge": {
+    "2024-01-15 21:33:00": {
+      "calls": 26,
+      "average_duration": 0.228
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 28,
+      "average_duration": 0.212
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 26,
+      "average_duration": 0.329
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 42,
+      "average_duration": 0.356
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 35,
+      "average_duration": 0.268
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 38,
+      "average_duration": 0.258
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 4,
+      "average_duration": 0.237
+    }
+  },
+  "checkoutservice:hipstershop.ShippingService/ShipOrder": {
+    "2024-01-15 21:33:00": {
+      "calls": 26,
+      "average_duration": 3.358
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 28,
+      "average_duration": 3.124
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 26,
+      "average_duration": 3.646
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 42,
+      "average_duration": 6.455
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 35,
+      "average_duration": 7.676
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 38,
+      "average_duration": 7.848
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 4,
+      "average_duration": 7.782
+    }
+  },
+  "checkoutservice:hipstershop.CartService/EmptyCart": {
+    "2024-01-15 21:33:00": {
+      "calls": 26,
+      "average_duration": 4.339
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 28,
+      "average_duration": 4.266
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 26,
+      "average_duration": 3.901
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 42,
+      "average_duration": 8.765
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 35,
+      "average_duration": 23.474
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 38,
+      "average_duration": 8.308
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 4,
+      "average_duration": 7.63
+    }
+  },
+  "checkoutservice:hipstershop.EmailService/SendOrderConfirmation": {
+    "2024-01-15 21:33:00": {
+      "calls": 26,
+      "average_duration": 3.766
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 28,
+      "average_duration": 3.891
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 26,
+      "average_duration": 3.771
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 42,
+      "average_duration": 6.38
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 35,
+      "average_duration": 9.749
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 38,
+      "average_duration": 11.059
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 4,
+      "average_duration": 4.04
+    }
+  },
+  "emailservice:/hipstershop.EmailService/SendOrderConfirmation": {
+    "2024-01-15 21:33:00": {
+      "calls": 26,
+      "average_duration": 0.292
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 28,
+      "average_duration": 0.283
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 26,
+      "average_duration": 0.316
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 42,
+      "average_duration": 0.38
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 35,
+      "average_duration": 0.371
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 38,
+      "average_duration": 0.333
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 4,
+      "average_duration": 0.298
+    }
+  },
+  "emailservice:/grpc.health.v1.Health/Check": {
+    "2024-01-15 21:33:00": {
+      "calls": 20,
+      "average_duration": 0.042
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 24,
+      "average_duration": 0.042
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 24,
+      "average_duration": 0.042
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 24,
+      "average_duration": 0.057
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 24,
+      "average_duration": 0.051
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 24,
+      "average_duration": 0.052
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 4,
+      "average_duration": 0.051
+    }
+  },
+  "currencyservice:grpc.grpc.health.v1.Health/Check": {
+    "2024-01-15 21:33:00": {
+      "calls": 10,
+      "average_duration": 0.04
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 12,
+      "average_duration": 0.052
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 12,
+      "average_duration": 0.047
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 12,
+      "average_duration": 0.043
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 12,
+      "average_duration": 0.05
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 12,
+      "average_duration": 0.039
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 2,
+      "average_duration": 0.04
+    }
+  },
+  "paymentservice:grpc.grpc.health.v1.Health/Check": {
+    "2024-01-15 21:33:00": {
+      "calls": 10,
+      "average_duration": 0.063
+    },
+    "2024-01-15 21:34:00": {
+      "calls": 12,
+      "average_duration": 0.066
+    },
+    "2024-01-15 21:35:00": {
+      "calls": 12,
+      "average_duration": 0.319
+    },
+    "2024-01-15 21:36:00": {
+      "calls": 12,
+      "average_duration": 0.066
+    },
+    "2024-01-15 21:37:00": {
+      "calls": 12,
+      "average_duration": 0.112
+    },
+    "2024-01-15 21:38:00": {
+      "calls": 12,
+      "average_duration": 0.06
+    },
+    "2024-01-15 21:39:00": {
+      "calls": 2,
+      "average_duration": 0.066
+    }
+  }
+}

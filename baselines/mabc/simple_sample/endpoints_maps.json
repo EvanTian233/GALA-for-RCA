@@ -1,0 +1,520 @@
+{
+  "checkoutservice:hipstershop.CheckoutService/PlaceOrder": {
+    "2024-01-15 21:33:00": [
+      "checkoutservice:hipstershop.CartService/EmptyCart",
+      "checkoutservice:hipstershop.CartService/GetCart",
+      "checkoutservice:hipstershop.EmailService/SendOrderConfirmation",
+      "checkoutservice:hipstershop.PaymentService/Charge",
+      "checkoutservice:hipstershop.ProductCatalogService/GetProduct",
+      "checkoutservice:hipstershop.ShippingService/GetQuote",
+      "checkoutservice:hipstershop.ShippingService/ShipOrder"
+    ],
+    "2024-01-15 21:34:00": [
+      "checkoutservice:hipstershop.CartService/EmptyCart",
+      "checkoutservice:hipstershop.CartService/GetCart",
+      "checkoutservice:hipstershop.EmailService/SendOrderConfirmation",
+      "checkoutservice:hipstershop.PaymentService/Charge",
+      "checkoutservice:hipstershop.ProductCatalogService/GetProduct",
+      "checkoutservice:hipstershop.ShippingService/GetQuote",
+      "checkoutservice:hipstershop.ShippingService/ShipOrder"
+    ],
+    "2024-01-15 21:35:00": [
+      "checkoutservice:hipstershop.CartService/EmptyCart",
+      "checkoutservice:hipstershop.CartService/GetCart",
+      "checkoutservice:hipstershop.EmailService/SendOrderConfirmation",
+      "checkoutservice:hipstershop.PaymentService/Charge",
+      "checkoutservice:hipstershop.ProductCatalogService/GetProduct",
+      "checkoutservice:hipstershop.ShippingService/GetQuote",
+      "checkoutservice:hipstershop.ShippingService/ShipOrder"
+    ],
+    "2024-01-15 21:36:00": [
+      "checkoutservice:hipstershop.CartService/EmptyCart",
+      "checkoutservice:hipstershop.CartService/GetCart",
+      "checkoutservice:hipstershop.EmailService/SendOrderConfirmation",
+      "checkoutservice:hipstershop.PaymentService/Charge",
+      "checkoutservice:hipstershop.ProductCatalogService/GetProduct",
+      "checkoutservice:hipstershop.ShippingService/GetQuote",
+      "checkoutservice:hipstershop.ShippingService/ShipOrder"
+    ],
+    "2024-01-15 21:37:00": [
+      "checkoutservice:hipstershop.CartService/EmptyCart",
+      "checkoutservice:hipstershop.CartService/GetCart",
+      "checkoutservice:hipstershop.EmailService/SendOrderConfirmation",
+      "checkoutservice:hipstershop.PaymentService/Charge",
+      "checkoutservice:hipstershop.ProductCatalogService/GetProduct",
+      "checkoutservice:hipstershop.ShippingService/GetQuote",
+      "checkoutservice:hipstershop.ShippingService/ShipOrder"
+    ],
+    "2024-01-15 21:38:00": [
+      "checkoutservice:hipstershop.CartService/EmptyCart",
+      "checkoutservice:hipstershop.CartService/GetCart",
+      "checkoutservice:hipstershop.EmailService/SendOrderConfirmation",
+      "checkoutservice:hipstershop.PaymentService/Charge",
+      "checkoutservice:hipstershop.ProductCatalogService/GetProduct",
+      "checkoutservice:hipstershop.ShippingService/GetQuote",
+      "checkoutservice:hipstershop.ShippingService/ShipOrder"
+    ],
+    "2024-01-15 21:39:00": [
+      "checkoutservice:hipstershop.CartService/EmptyCart",
+      "checkoutservice:hipstershop.CartService/GetCart",
+      "checkoutservice:hipstershop.EmailService/SendOrderConfirmation",
+      "checkoutservice:hipstershop.PaymentService/Charge",
+      "checkoutservice:hipstershop.ProductCatalogService/GetProduct",
+      "checkoutservice:hipstershop.ShippingService/GetQuote",
+      "checkoutservice:hipstershop.ShippingService/ShipOrder"
+    ]
+  },
+  "checkoutservice:hipstershop.CurrencyService/Convert": {
+    "2024-01-15 21:33:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/Convert"
+    ],
+    "2024-01-15 21:34:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/Convert"
+    ],
+    "2024-01-15 21:35:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/Convert"
+    ],
+    "2024-01-15 21:36:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/Convert"
+    ],
+    "2024-01-15 21:37:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/Convert"
+    ],
+    "2024-01-15 21:38:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/Convert"
+    ],
+    "2024-01-15 21:39:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/Convert"
+    ]
+  },
+  "checkoutservice:hipstershop.EmailService/SendOrderConfirmation": {
+    "2024-01-15 21:33:00": [
+      "emailservice:/hipstershop.EmailService/SendOrderConfirmation"
+    ],
+    "2024-01-15 21:34:00": [
+      "emailservice:/hipstershop.EmailService/SendOrderConfirmation"
+    ],
+    "2024-01-15 21:35:00": [
+      "emailservice:/hipstershop.EmailService/SendOrderConfirmation"
+    ],
+    "2024-01-15 21:36:00": [
+      "emailservice:/hipstershop.EmailService/SendOrderConfirmation"
+    ],
+    "2024-01-15 21:37:00": [
+      "emailservice:/hipstershop.EmailService/SendOrderConfirmation"
+    ],
+    "2024-01-15 21:38:00": [
+      "emailservice:/hipstershop.EmailService/SendOrderConfirmation"
+    ],
+    "2024-01-15 21:39:00": [
+      "emailservice:/hipstershop.EmailService/SendOrderConfirmation"
+    ]
+  },
+  "checkoutservice:hipstershop.PaymentService/Charge": {
+    "2024-01-15 21:33:00": [
+      "paymentservice:grpc.hipstershop.PaymentService/Charge"
+    ],
+    "2024-01-15 21:34:00": [
+      "paymentservice:grpc.hipstershop.PaymentService/Charge"
+    ],
+    "2024-01-15 21:35:00": [
+      "paymentservice:grpc.hipstershop.PaymentService/Charge"
+    ],
+    "2024-01-15 21:36:00": [
+      "paymentservice:grpc.hipstershop.PaymentService/Charge"
+    ],
+    "2024-01-15 21:37:00": [
+      "paymentservice:grpc.hipstershop.PaymentService/Charge"
+    ],
+    "2024-01-15 21:38:00": [
+      "paymentservice:grpc.hipstershop.PaymentService/Charge"
+    ],
+    "2024-01-15 21:39:00": [
+      "paymentservice:grpc.hipstershop.PaymentService/Charge"
+    ]
+  },
+  "checkoutservice:hipstershop.ProductCatalogService/GetProduct": {
+    "2024-01-15 21:33:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/GetProduct"
+    ],
+    "2024-01-15 21:34:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/GetProduct"
+    ],
+    "2024-01-15 21:35:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/GetProduct"
+    ],
+    "2024-01-15 21:36:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/GetProduct"
+    ],
+    "2024-01-15 21:37:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/GetProduct"
+    ],
+    "2024-01-15 21:38:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/GetProduct"
+    ],
+    "2024-01-15 21:39:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/GetProduct"
+    ]
+  },
+  "frontendservice:frontend": {
+    "2024-01-15 21:33:00": [
+      "frontendservice:hipstershop.AdService/GetAds",
+      "frontendservice:hipstershop.CartService/AddItem",
+      "frontendservice:hipstershop.CartService/GetCart",
+      "frontendservice:hipstershop.CheckoutService/PlaceOrder",
+      "frontendservice:hipstershop.CurrencyService/Convert",
+      "frontendservice:hipstershop.CurrencyService/GetSupportedCurrencies",
+      "frontendservice:hipstershop.ProductCatalogService/GetProduct",
+      "frontendservice:hipstershop.ProductCatalogService/ListProducts",
+      "frontendservice:hipstershop.RecommendationService/ListRecommendations",
+      "frontendservice:hipstershop.ShippingService/GetQuote"
+    ],
+    "2024-01-15 21:34:00": [
+      "frontendservice:hipstershop.AdService/GetAds",
+      "frontendservice:hipstershop.CartService/AddItem",
+      "frontendservice:hipstershop.CartService/GetCart",
+      "frontendservice:hipstershop.CheckoutService/PlaceOrder",
+      "frontendservice:hipstershop.CurrencyService/Convert",
+      "frontendservice:hipstershop.CurrencyService/GetSupportedCurrencies",
+      "frontendservice:hipstershop.ProductCatalogService/GetProduct",
+      "frontendservice:hipstershop.ProductCatalogService/ListProducts",
+      "frontendservice:hipstershop.RecommendationService/ListRecommendations",
+      "frontendservice:hipstershop.ShippingService/GetQuote"
+    ],
+    "2024-01-15 21:35:00": [
+      "frontendservice:hipstershop.AdService/GetAds",
+      "frontendservice:hipstershop.CartService/AddItem",
+      "frontendservice:hipstershop.CartService/GetCart",
+      "frontendservice:hipstershop.CheckoutService/PlaceOrder",
+      "frontendservice:hipstershop.CurrencyService/Convert",
+      "frontendservice:hipstershop.CurrencyService/GetSupportedCurrencies",
+      "frontendservice:hipstershop.ProductCatalogService/GetProduct",
+      "frontendservice:hipstershop.ProductCatalogService/ListProducts",
+      "frontendservice:hipstershop.RecommendationService/ListRecommendations",
+      "frontendservice:hipstershop.ShippingService/GetQuote"
+    ],
+    "2024-01-15 21:36:00": [
+      "frontendservice:hipstershop.AdService/GetAds",
+      "frontendservice:hipstershop.CartService/AddItem",
+      "frontendservice:hipstershop.CartService/GetCart",
+      "frontendservice:hipstershop.CheckoutService/PlaceOrder",
+      "frontendservice:hipstershop.CurrencyService/Convert",
+      "frontendservice:hipstershop.CurrencyService/GetSupportedCurrencies",
+      "frontendservice:hipstershop.ProductCatalogService/GetProduct",
+      "frontendservice:hipstershop.ProductCatalogService/ListProducts",
+      "frontendservice:hipstershop.RecommendationService/ListRecommendations",
+      "frontendservice:hipstershop.ShippingService/GetQuote"
+    ],
+    "2024-01-15 21:37:00": [
+      "frontendservice:hipstershop.AdService/GetAds",
+      "frontendservice:hipstershop.CartService/AddItem",
+      "frontendservice:hipstershop.CartService/GetCart",
+      "frontendservice:hipstershop.CheckoutService/PlaceOrder",
+      "frontendservice:hipstershop.CurrencyService/Convert",
+      "frontendservice:hipstershop.CurrencyService/GetSupportedCurrencies",
+      "frontendservice:hipstershop.ProductCatalogService/GetProduct",
+      "frontendservice:hipstershop.ProductCatalogService/ListProducts",
+      "frontendservice:hipstershop.RecommendationService/ListRecommendations",
+      "frontendservice:hipstershop.ShippingService/GetQuote"
+    ],
+    "2024-01-15 21:38:00": [
+      "frontendservice:hipstershop.AdService/GetAds",
+      "frontendservice:hipstershop.CartService/AddItem",
+      "frontendservice:hipstershop.CartService/GetCart",
+      "frontendservice:hipstershop.CheckoutService/PlaceOrder",
+      "frontendservice:hipstershop.CurrencyService/Convert",
+      "frontendservice:hipstershop.CurrencyService/GetSupportedCurrencies",
+      "frontendservice:hipstershop.ProductCatalogService/GetProduct",
+      "frontendservice:hipstershop.ProductCatalogService/ListProducts",
+      "frontendservice:hipstershop.RecommendationService/ListRecommendations",
+      "frontendservice:hipstershop.ShippingService/GetQuote"
+    ],
+    "2024-01-15 21:39:00": [
+      "frontendservice:hipstershop.AdService/GetAds",
+      "frontendservice:hipstershop.CartService/AddItem",
+      "frontendservice:hipstershop.CartService/GetCart",
+      "frontendservice:hipstershop.CheckoutService/PlaceOrder",
+      "frontendservice:hipstershop.CurrencyService/Convert",
+      "frontendservice:hipstershop.CurrencyService/GetSupportedCurrencies",
+      "frontendservice:hipstershop.ProductCatalogService/GetProduct",
+      "frontendservice:hipstershop.ProductCatalogService/ListProducts",
+      "frontendservice:hipstershop.RecommendationService/ListRecommendations",
+      "frontendservice:hipstershop.ShippingService/GetQuote"
+    ]
+  },
+  "frontendservice:hipstershop.CheckoutService/PlaceOrder": {
+    "2024-01-15 21:33:00": [
+      "checkoutservice:hipstershop.CheckoutService/PlaceOrder"
+    ],
+    "2024-01-15 21:34:00": [
+      "checkoutservice:hipstershop.CheckoutService/PlaceOrder"
+    ],
+    "2024-01-15 21:35:00": [
+      "checkoutservice:hipstershop.CheckoutService/PlaceOrder"
+    ],
+    "2024-01-15 21:36:00": [
+      "checkoutservice:hipstershop.CheckoutService/PlaceOrder"
+    ],
+    "2024-01-15 21:37:00": [
+      "checkoutservice:hipstershop.CheckoutService/PlaceOrder"
+    ],
+    "2024-01-15 21:38:00": [
+      "checkoutservice:hipstershop.CheckoutService/PlaceOrder"
+    ],
+    "2024-01-15 21:39:00": [
+      "checkoutservice:hipstershop.CheckoutService/PlaceOrder"
+    ]
+  },
+  "frontendservice:hipstershop.CurrencyService/Convert": {
+    "2024-01-15 21:33:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/Convert"
+    ],
+    "2024-01-15 21:34:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/Convert"
+    ],
+    "2024-01-15 21:35:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/Convert"
+    ],
+    "2024-01-15 21:36:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/Convert"
+    ],
+    "2024-01-15 21:37:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/Convert"
+    ],
+    "2024-01-15 21:38:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/Convert"
+    ],
+    "2024-01-15 21:39:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/Convert"
+    ]
+  },
+  "frontendservice:hipstershop.CurrencyService/GetSupportedCurrencies": {
+    "2024-01-15 21:33:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/GetSupportedCurrencies"
+    ],
+    "2024-01-15 21:34:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/GetSupportedCurrencies"
+    ],
+    "2024-01-15 21:35:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/GetSupportedCurrencies"
+    ],
+    "2024-01-15 21:36:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/GetSupportedCurrencies"
+    ],
+    "2024-01-15 21:37:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/GetSupportedCurrencies"
+    ],
+    "2024-01-15 21:38:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/GetSupportedCurrencies"
+    ],
+    "2024-01-15 21:39:00": [
+      "currencyservice:grpc.hipstershop.CurrencyService/GetSupportedCurrencies"
+    ]
+  },
+  "frontendservice:hipstershop.ProductCatalogService/GetProduct": {
+    "2024-01-15 21:33:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/GetProduct"
+    ],
+    "2024-01-15 21:34:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/GetProduct"
+    ],
+    "2024-01-15 21:35:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/GetProduct"
+    ],
+    "2024-01-15 21:36:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/GetProduct"
+    ],
+    "2024-01-15 21:37:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/GetProduct"
+    ],
+    "2024-01-15 21:38:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/GetProduct"
+    ],
+    "2024-01-15 21:39:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/GetProduct"
+    ]
+  },
+  "frontendservice:hipstershop.ProductCatalogService/ListProducts": {
+    "2024-01-15 21:33:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:34:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:35:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:36:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:37:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:38:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:39:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/ListProducts"
+    ]
+  },
+  "frontendservice:hipstershop.RecommendationService/ListRecommendations": {
+    "2024-01-15 21:33:00": [
+      "recommendationservice:/hipstershop.RecommendationService/ListRecommendations"
+    ],
+    "2024-01-15 21:34:00": [
+      "recommendationservice:/hipstershop.RecommendationService/ListRecommendations"
+    ],
+    "2024-01-15 21:35:00": [
+      "recommendationservice:/hipstershop.RecommendationService/ListRecommendations"
+    ],
+    "2024-01-15 21:36:00": [
+      "recommendationservice:/hipstershop.RecommendationService/ListRecommendations"
+    ],
+    "2024-01-15 21:37:00": [
+      "recommendationservice:/hipstershop.RecommendationService/ListRecommendations"
+    ],
+    "2024-01-15 21:38:00": [
+      "recommendationservice:/hipstershop.RecommendationService/ListRecommendations"
+    ],
+    "2024-01-15 21:39:00": [
+      "recommendationservice:/hipstershop.RecommendationService/ListRecommendations"
+    ]
+  },
+  "recommendationservice:/hipstershop.ProductCatalogService/ListProducts": {
+    "2024-01-15 21:33:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:34:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:35:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:36:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:37:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:38:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:39:00": [
+      "productcatalogservice:hipstershop.ProductCatalogService/ListProducts"
+    ]
+  },
+  "recommendationservice:/hipstershop.RecommendationService/ListRecommendations": {
+    "2024-01-15 21:33:00": [
+      "recommendationservice:/hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:34:00": [
+      "recommendationservice:/hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:35:00": [
+      "recommendationservice:/hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:36:00": [
+      "recommendationservice:/hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:37:00": [
+      "recommendationservice:/hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:38:00": [
+      "recommendationservice:/hipstershop.ProductCatalogService/ListProducts"
+    ],
+    "2024-01-15 21:39:00": [
+      "recommendationservice:/hipstershop.ProductCatalogService/ListProducts"
+    ]
+  },
+  "None": {
+    "2024-01-15 21:33:00": [
+      "checkoutservice:grpc.health.v1.health/check",
+      "checkoutservice:hipstershop.currencyservice/convert",
+      "checkoutservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "currencyservice:grpc.grpc.health.v1.health/check",
+      "emailservice:/grpc.health.v1.health/check",
+      "frontendservice:frontend",
+      "frontendservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "paymentservice:grpc.grpc.health.v1.health/check",
+      "productcatalogservice:grpc.health.v1.health/check",
+      "productcatalogservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "recommendationservice:/grpc.health.v1.health/check"
+    ],
+    "2024-01-15 21:34:00": [
+      "checkoutservice:grpc.health.v1.health/check",
+      "checkoutservice:hipstershop.currencyservice/convert",
+      "checkoutservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "currencyservice:grpc.grpc.health.v1.health/check",
+      "emailservice:/grpc.health.v1.health/check",
+      "frontendservice:frontend",
+      "frontendservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "paymentservice:grpc.grpc.health.v1.health/check",
+      "productcatalogservice:grpc.health.v1.health/check",
+      "productcatalogservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "recommendationservice:/grpc.health.v1.health/check"
+    ],
+    "2024-01-15 21:35:00": [
+      "checkoutservice:grpc.health.v1.health/check",
+      "checkoutservice:hipstershop.currencyservice/convert",
+      "checkoutservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "currencyservice:grpc.grpc.health.v1.health/check",
+      "emailservice:/grpc.health.v1.health/check",
+      "frontendservice:frontend",
+      "frontendservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "paymentservice:grpc.grpc.health.v1.health/check",
+      "productcatalogservice:grpc.health.v1.health/check",
+      "productcatalogservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "recommendationservice:/grpc.health.v1.health/check"
+    ],
+    "2024-01-15 21:36:00": [
+      "checkoutservice:grpc.health.v1.health/check",
+      "checkoutservice:hipstershop.currencyservice/convert",
+      "checkoutservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "currencyservice:grpc.grpc.health.v1.health/check",
+      "emailservice:/grpc.health.v1.health/check",
+      "frontendservice:frontend",
+      "frontendservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "paymentservice:grpc.grpc.health.v1.health/check",
+      "productcatalogservice:grpc.health.v1.health/check",
+      "productcatalogservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "recommendationservice:/grpc.health.v1.health/check"
+    ],
+    "2024-01-15 21:37:00": [
+      "checkoutservice:grpc.health.v1.health/check",
+      "checkoutservice:hipstershop.currencyservice/convert",
+      "checkoutservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "currencyservice:grpc.grpc.health.v1.health/check",
+      "emailservice:/grpc.health.v1.health/check",
+      "frontendservice:frontend",
+      "frontendservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "paymentservice:grpc.grpc.health.v1.health/check",
+      "productcatalogservice:grpc.health.v1.health/check",
+      "productcatalogservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "recommendationservice:/grpc.health.v1.health/check"
+    ],
+    "2024-01-15 21:38:00": [
+      "checkoutservice:grpc.health.v1.health/check",
+      "checkoutservice:hipstershop.currencyservice/convert",
+      "checkoutservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "currencyservice:grpc.grpc.health.v1.health/check",
+      "emailservice:/grpc.health.v1.health/check",
+      "frontendservice:frontend",
+      "frontendservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "paymentservice:grpc.grpc.health.v1.health/check",
+      "productcatalogservice:grpc.health.v1.health/check",
+      "productcatalogservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "recommendationservice:/grpc.health.v1.health/check"
+    ],
+    "2024-01-15 21:39:00": [
+      "checkoutservice:hipstershop.currencyservice/convert",
+      "checkoutservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "currencyservice:grpc.grpc.health.v1.health/check",
+      "emailservice:/grpc.health.v1.health/check",
+      "frontendservice:frontend",
+      "frontendservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "paymentservice:grpc.grpc.health.v1.health/check",
+      "productcatalogservice:opentelemetry.proto.collector.trace.v1.traceservice/export",
+      "recommendationservice:/grpc.health.v1.health/check"
+    ]
+  }
+}
